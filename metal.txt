@@ -1,0 +1,210 @@
+metal barrels
+metal milk churn
+metal plant pot
+metal can or trash
+metal/blade/axe
+metal screws
+metal watering can
+dirty metal pipes
+metal pipes or machinery
+metal ruler
+rusty metal components
+metal frame or building
+metal tabletop
+metal frame or tower
+metal girder or pillar or strut
+metal tank or container
+metal component
+metal girder structure
+metal ornamemt
+metal figurine
+metal/gate
+metal railing
+metal beverage can or litter
+metal ornament or lionsHead
+metal/model/aeroplane
+temporary metal barrier
+metal dustbin
+derelict metal box
+metal saucepan lid
+metal girders
+metal gridge
+metal fence
+metal tray
+metal storage tank
+metal figurine or angel or cherub
+metal/screw
+metal cylindrical container
+metal railing or fence
+metal screw
+metal spikes
+metal cup or pot
+metal poles
+head/lion/sculpture/metal
+metal/grid/mesh
+metal/rusty/frame
+metal railing
+metal tap
+metal brrel
+metal hut
+metal bridge
+metal fitting
+metal dor
+metal barriers
+metal rail
+metal block
+metal silo
+metal ornament
+metal_frame/bridge
+metal conveyor belt
+metal fence
+metal barrier
+metal stool
+metal railing
+metal  fence
+metal gate
+metal_fence
+metal pipe
+metal cover
+metal shutter
+metal ra
+ metal railing
+ metal barrier
+metal staircase
+metal bollard
+corrugated metal
+metal container
+ metal drain cover
+metal frame
+metal girder
+metal post
+ metal fence
+ metal barrel
+ metal basket
+metalrailing
+metalmetal railing
+metal/fence
+metal tube
+metal/bollard
+ metal post
+metal bowl
+metal  railing
+metal/gate
+metal/bowl
+metal/barrier
+metal railng
+metal/helmet
+metal_staircase
+metal_gate
+metal steps
+metal rainling
+metal bridge
+metal raiing
+metal ladder
+metal door
+brick wall/metal fence
+metal barrel
+metal  bridge
+folaige/metal railing
+stone wall/metal fence
+metal barrrier
+metal ppole
+brick wall/metal railing
+metal gate/metal shutter
+rusted metal
+metalbackhoe loader
+metal strut
+metal drain cover
+metal jar lid
+metal bucket
+metal plate
+metalwork
+metal handrail
+metal chain
+metal barrel/canister
+metal cup
+metal pipes
+metal cylinder
+metal
+metal box
+metal lid
+metal ramp
+metal spoon
+metal beam
+metal ladle
+metal pot
+metal cage
+metal saucepan
+metal barrier/fence
+cylindrical metal container
+metal hook
+metal pole
+metal platform
+metal dish
+metal canister
+metal pan
+metal table
+metal chair
+metal wire fence
+exterior metal staircase
+wooden/metal  box
+metal object
+scrap metal
+woodenmetal staircase
+metal kettle
+metal bar
+rusty metal
+metal raining
+fence/barrier-\u0026gt;metal railing
+metal railing/wall
+wall/metal railing
+metal brrier
+metal railing/footbridge
+metal railing/pavement
+stacked metal barrel
+metal grating
+metal bars
+metal support
+metal teapot
+metal grill
+metalbarrier/fence
+metal structure
+metal tongs
+[metal [fence/barrier]]
+metal fgrame
+metal toy truck
+metal tin
+metal key
+metal framework
+metal drum
+metal spatula
+metal lid/jar
+metal wheeled object
+metal jug
+metal spring
+metal components
+cumpled metal
+metal ball
+pipelmetal frame
+metal foil
+metal part
+metal vent
+metal enclosure
+metal railing/fence
+glass/metal/building
+metal tower
+metal tool
+metal walkway
+glass/metal/roof
+metal surface
+stack_of/metal_barrier
+stack_of metal_barrier
+corrugated metal panel
+metal gantry
+metal panel
+metal/glass panel
+hot metal
+metal device
+metal fdreame
+metal_railing/metal_barrier
+metal_fence/metal_railing
