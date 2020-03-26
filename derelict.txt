@@ -1,0 +1,72 @@
+derelict chair
+derelict road vehicle
+derelict van
+derelict aeroplane
+derelict machine
+derelict mine
+derelict pickup truck
+derelict TV
+derelict wooden house
+hole in derelict building
+derelict aircraft interior
+derelict train
+derelict buiding
+derelict stone building
+derelict trailer
+derelict bench
+derelict/picture
+derelict/chair
+derelict motor scooter
+derelict car interior
+derelict wooden barn
+derelict/building/interior
+derelict metal box
+derelict desktop computer
+derelict/building
+derelict/wall
+derelict truck
+derelict machinery
+derelict/bicycle
+derelict wall
+derelict steps
+derelict/indoor
+derelict/sofa
+derelict buildiong
+derelict bujilding
+derelict house
+derelict shop front
+derelict/church
+derelict building or ruins
+derelict locomotive
+derelict fishing boat
+hull of derelict boat
+cabin of derelict boat
+interior/derelict building
+derelict building
+derelict car
+ derelict building
+derelict warehouse
+ derelict truck
+derelict factory interior
+derelict industrial building exterior
+derelict industrial building
+derelict builing interior
+derelict building exterior
+derelict crane
+derelict
+derelict building interior
+derelict bus
+~derelict building exterior
+derelict aircraft
+derelict vehicle
+derelict/barn
+derelict boat
+derelict ship
+underwater/derelict/aircraft
+derelict/brick/building
+derelict wooden building
+derelict factory
+derelict tank
+ruins/derelict_building
+derelict bujilding interior
+derelict church
