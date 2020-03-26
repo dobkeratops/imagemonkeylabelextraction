@@ -1,0 +1,295 @@
+taxi or car
+gravel or soil
+path or pavement
+wall or fence
+tray or box
+grass or soil
+grass or fallen leaves
+river or stream
+woman sitting or kneeling
+lake or river
+path or driveway
+cake or dessert
+river or sea
+ramp or steps
+pavement or path
+trees or bushes
+soil or vegetation
+grass or bushes
+parking space or bus stop
+smoke or clouds
+bookshop or library
+playground or park
+rubble or soil
+cup or mug
+coffee cup or teacup
+dessert or cake
+airport or railway station
+soil or woodchips
+castle or church
+glass tower or skyscraper
+glass building or skyscraper
+coach or bus
+bricks or concrete blocks
+bus or coach
+wooden platform or jetty
+dry mud or soil
+jet engine or machinery
+canoe or boat
+man or musician
+coat or jacket
+rock or cliff
+sparks or smoke
+pipes or cables
+wet sand or gravel
+cars or motorbikes
+rubble or rocks
+canal or water
+pond or pool
+docks or harbour
+vegetation or hillside
+foliage or bush
+buildings or city
+field or park
+road or pavement
+foliage or bushes
+driveway or road
+rubble or trash
+river or lake
+spectators or crowd
+soil or sand
+foliage or trees
+sand or beach
+bushes or foliage
+trees or foliage
+squash or vegetable
+road or path
+sand or gravel
+soil or grass or gravel
+dining room or restaurant
+metal can or trash
+plastic bottle or trash
+must or clouds
+snow or ice
+water biscuit or crackers
+sand or soil
+fabric or textiles
+seat or bench
+lake or sea
+cosplayer or Star Wars scout trooper
+gravel or concrete
+van or bus
+building or hut
+gravel or pebbles
+motor or engine
+mask or horses head
+pavement or grass
+wall or building
+soil or gravel
+driveway or parking space
+shelter or roof
+roof or wall
+bar or pub
+spade or garden tool
+sand or dry soil
+monkey or ape
+amplifier or electrical device or box
+soil or rocks
+twigs or fallen leaves
+wood chips or soil or gravel
+confectionary or sweets
+paper or card
+woman sitting or reclining
+canal or river
+terraced houses or buildings
+tower or castle
+metal pipes or machinery
+man or musical conductor
+strategic bomber or jet aircraft
+sea or river
+path or road
+stone sculpture or head
+stone or rock
+rocks or gravel
+jars or bottles
+seats or bench
+ceiling or roof of railway station
+grass or sand
+grass or hillside
+parking space or road
+seat or furniture
+saw or tool
+book or magazine
+chandelier or ceiling light
+mountain or vegetation
+donut or confectionary
+beach or sand
+wooden sculpture or boat
+river or pond
+dreadlocks or hair of woman
+octopus or seafood
+straw or hay
+town or village
+supermarket shelves or retail
+bench or sculpture
+barrier or kerbstone
+pavement or ground
+dry soil or sand
+touring bike or racing bike or bicycle
+woman dancing exercising or acrobat
+pavement or sidewalk
+mountains or snow
+cap or hat
+soil or fallen leaves
+buildings or houses
+crowd or people
+statue or sculpture
+river or sand
+mushroom cloud or flames
+restaurant or hotel
+desk or table
+wood chips or soil
+buildings or skyscrapers
+metal frame or building
+mountain or snow
+fallen leaves or grass
+trees or hillside
+wooden platform or bridge
+tables or chairs
+suitcase or luggage
+metal frame or tower
+bridge or overpass
+metal girder or pillar or strut
+hut or building
+beach or wet sand
+jacket or coat
+sea or beach
+building or structure
+ground or surface
+wet sand or beach
+barge or ship
+metal tank or container
+gravel path or road
+gravel or dirt road
+hat or cap
+plastic bottle or litter
+bushes or grass
+hut or shed
+supercar or racing car
+road or racetrack
+rope or handle
+ox or draught animal
+skyscrapers or buildings
+toy or model
+stunt or trick
+racing bike or time trial bike
+tool or artefact
+soil or grass
+bubble wrap or curtain
+walkway or platform
+glider or aeroplane
+wooden bridge or platform
+minivan or car
+fence or wall
+debris or rocks
+cables or wires
+measuring instrument or calipers
+engine or machinery
+man or paratrooper or soldier standing
+smartphone or camera
+log or tree trunk
+road or carpark
+person or firefighter
+interior or jet airliner
+lunar lander or spacecraft
+glass bottle or litter
+metal beverage can or litter
+canal or marina
+waste container or skip
+wooden stick or wooden pole
+bench or seat
+metal ornament or lionsHead
+barn or garage
+woman standing or waitress
+barrier or haybale
+driveway or loading bay
+parachute or paraglider
+earring or jewellery
+necklace or jewellery
+harbour or port
+person swimming underwater or diver
+castle or stately home
+model or toy
+cliff or mountain
+rubble or gravel
+tent or canopy
+sand or silt
+dinosaur or sculpture or statue
+soup or stew
+poster or picture
+glass jar or container
+highway or road
+stage or platform
+metal figurine or angel or cherub
+mountain or hill
+metal railing or fence
+chocolate fragments or crumbs
+silhouette or person jumping
+sand or grass or bushes
+omelette or pancake
+man or chef
+geographical globe or ornament
+metal cup or pot
+shack or shed
+box or suitcase
+figurine or woman
+figurine or man
+jet aircraft or private jet
+workshop or storeroom
+chair or blanket
+riverBank or silt or gravel or sand
+graffiti or wall
+river or swamp
+van or minivan
+car or yellowcab or taxi
+gravel or hard shoulder
+mist or sky
+machinery or engine
+driveway or loading bat or parking space
+loading bay or driveway
+livestock or sheep
+Olympic Rings or exercise equipment
+tower or building
+plant or bush or foliage
+track or rail
+crane or hook
+walk or fence
+box or radio
+foliage or grass
+city or buildings
+lily pads or pond
+derelict building or ruins
+central reservation or pavement
+wooden fence or wooden gate
+box or basket
+people or soldiers
+beach or mud
+car or SUV
+girl or woman
+cooked meat or roast chicken
+fire truck or fireEngine
+puppet or mannequin or figurine
+stadium or crowd
+coat or hoodie
+kettle or jug
+jeep or off road vehicle
+rubber ring or flotation device
+man or shopkeeper
+man or customer
+child or baby
+rocks or sand
+market or shop
+fruits or vegetables
+food or nuts
+house or cottage
+food wrapper or chocolate bar
