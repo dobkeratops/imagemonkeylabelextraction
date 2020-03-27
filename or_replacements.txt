@@ -1,0 +1,295 @@
+taxi/car
+gravel/soil
+path/pavement
+wall/fence
+tray/box
+grass/soil
+grass/fallen leaves
+river/stream
+woman/sitting/kneeling
+lake/river
+path/driveway
+cake/dessert
+river/sea
+ramp/steps
+pavement/path
+trees/bushes
+soil/vegetation
+grass/bushes
+parking space/bus stop
+smoke/clouds
+bookshop/library
+playground/park
+rubble/soil
+cup/mug
+coffee cup/teacup
+dessert/cake
+airport/railway station
+soil/woodchips
+castle/church
+glass/tower/skyscraper
+glass/building/skyscraper
+coach/bus
+bricks/concrete/blocks
+bus/coach
+wooden platform/jetty
+dry mud/soil
+jet engine/machinery
+canoe/boat
+man/musician
+coat/jacket
+rock/cliff
+sparks/smoke
+pipes/cables
+wet/sand/gravel
+cars/motorbikes
+rubble/rocks
+canal/water
+pond/pool
+docks/harbour
+vegetation/hillside
+foliage/bush
+buildings/city
+field/park
+road/pavement
+foliage/bushes
+driveway/road
+rubble/trash
+river/lake
+spectators/crowd
+soil/sand
+foliage/trees
+sand/beach
+bushes/foliage
+trees/foliage
+squash/vegetable
+road/path
+sand/gravel
+soil/grass/gravel
+dining room/restaurant
+metal can/trash
+plastic bottle/trash
+mist/clouds
+snow/ice
+water biscuit/crackers
+sand/soil
+fabric/textiles
+seat/bench
+lake/sea
+cosplayer/star Wars scout trooper
+gravel/concrete
+van/bus
+building/hut
+gravel/pebbles
+motor/engine
+mask/horse/head
+pavement/grass
+wall/building
+soil/gravel
+driveway/parking space
+shelter/roof
+roof/wall
+bar/pub
+spade/garden tool
+sand/dry/soil
+monkey/ape
+amplifier/electrical device/box
+soil/rocks
+twigs/fallen leaves
+wood chips/soil/gravel
+confectionary/sweets
+paper/card
+woman/sitting/reclining
+canal/river
+terraced houses/buildings
+tower/castle
+metal/pipes/machinery
+man/musical conductor
+strategic bomber/jet aircraft
+sea/river
+path/road
+stone/sculpture/head
+stone/rock
+rocks/gravel
+jars/bottles
+seats/bench
+ceiling/roof/railway station
+grass/sand
+grass/hillside
+parking space/road
+seat/furniture
+saw/tool
+book/magazine
+chandelier/ceiling light
+mountain/vegetation
+donut/confectionary
+beach/sand
+wooden/sculpture/boat
+river/pond
+dreadlocks/hair/woman
+octopus/seafood
+straw/hay
+town/village
+supermarket shelves/retail
+bench/sculpture
+barrier/kerbstone
+pavement/ground
+dry/soil/sand
+touring bike/racing bike/bicycle
+woman/dancing/exercising/acrobat
+pavement/sidewalk
+mountains/snow
+cap/hat
+soil/fallen leaves
+buildings/houses
+crowd/people
+statue/sculpture
+river/sand
+mushroom cloud/flames
+restaurant/hotel
+desk/table
+wood chips/soil
+buildings/skyscrapers
+metal/frame/building
+mountain/snow
+fallen leaves/grass
+trees/hillside
+wooden/platform/bridge
+tables/chairs
+suitcase/luggage
+metal/frame/tower
+bridge/overpass
+metal/girder/pillar/strut
+hut/building
+beach/wet/sand
+jacket/coat
+sea/beach
+building/structure
+ground/surface
+wet/sand/beach
+barge/ship
+metal tank container
+gravel/path/road
+gravel/dirt road
+hat/cap
+plastic/bottle/litter
+bushes/grass
+hut/shed
+supercar/racing car
+road/racetrack
+rope/handle
+ox/draught animal
+skyscrapers/buildings
+toy/model
+stunt/trick
+racing bike/time trial bike
+tool/artefact
+soil/grass
+bubble wrap/curtain
+walkway/platform
+glider/aeroplane
+wooden/bridge/platform
+minivan/car
+fence?wall
+debris/rocks
+cables/wires
+measuring instrument/calipers
+engine/machinery
+man/paratrooper/soldier/standing
+smartphone/camera
+log/tree trunk
+road/carpark
+person/firefighter
+interior/jet airliner
+lunar lander/spacecraft
+glass/bottle/litter
+metal beverage can/litter
+canal/marina
+waste container/skip
+wooden/stick/pole
+bench/seat
+metal/ornament/lionsHead
+barn/garage
+woman/standing/waitress
+barrier/haybale
+driveway/loading bay
+parachute/paraglider
+earring/jewellery
+necklace/jewellery
+harbour/port
+person/swimming/underwater/diver
+castle/stately home
+model/toy
+cliff/mountain
+rubble/gravel
+tent/canopy
+sand/silt
+dinosaur or sculpture or statue
+soup/stew
+poster/picture
+glass/jar/container
+highway/road
+stage/platform
+metal figurine/angel/cherub
+mountain/hill
+metal railing/fence
+chocolate fragments/crumbs
+silhouette/person jumping
+sand/grass/bushes
+omelette/pancake
+man/chef
+geographical globe/ornament
+metal cup/pot
+shack/shed
+box/suitcase
+figurine/woman
+figurine/man
+jet aircraft/private jet
+workshop/storeroom
+chair/blanket
+river bank/silt/gravel/sand
+graffiti/wall
+river/swamp
+van/minivan
+car/yellowcab/taxi
+gravel/hard shoulder
+mist/sky
+machinery/engine
+driveway/loading bay/parking space
+loading bay/driveway
+livestock/sheep
+olympic rings/exercise equipment
+tower/building
+plant/bush/foliage
+track/rail
+crane/hook
+walk/fence
+box/radio
+foliage/grass
+city/buildings
+lily pads/pond
+derelict building/ruins
+central reservation/pavement
+wooden fence/wooden gate
+box/basket
+people/soldiers
+beach/mud
+car/SUV
+girl/woman
+cooked meat/roast chicken
+fire truck/fireEngine
+puppet/mannequin/figurine
+stadium/crowd
+coat/hoodie
+kettle/jug
+jeep/off road vehicle
+rubber ring/flotation device
+man/shopkeeper
+man/customer
+child/baby
+rocks/sand
+market/shop
+fruits/vegetables
+food/nuts
+house/cottage
+food wrapper/chocolate bar
