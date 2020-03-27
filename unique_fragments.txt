@@ -10,16 +10,16 @@ handle
 wheel
 soil
 building
-standing
 hand
+standing
 interior
 reflection
-road
 dog
+road
 foliage
 sand
-gravel
 cabin
+gravel
 wall
 roof
 sculpture
@@ -28,262 +28,275 @@ statue
 wood
 foot
 vegetation
+sky
 bicycle
 cat
 river
 bird
 boat
-sky
 truck
 motorbike
 rock
 tree
 path
 pavement
-leg
+glass
 child
+box
+leg
 water
 eye
-box
-glass
-tail
 food
-smiling
+tail
 house
 window
 bridge
+smiling
 arm
-hillside
 rocks
+hillside
 door
 mountain
-horse
-mural
 fence
-girl
 trees
-seat
-aircraft
-sea
-pile
-asian
-walking
 clouds
-park
-elephant
+horse
+aircraft
+mural
+sea
+girl
+seat
+pile
 bush
-mouth
-engine
+asian
 forest
+walking
 silhouette
 animal
 tower
+park
 bus
+elephant
+mouth
+engine
+paw
 cliff
+beach
 aeroplane
 toy
-paw
-figurine
-beach
 bottle
-leaning
+figurine
 church
 field
 camera
 ground
+leaning
 bowl
 tray
 dirt
+van
+cup
+chair
+hut
 african
 metal
 wing
+pillar
 helicopter
+
 moss
-van
-cup
+closeup
 castle
-chair
+canal
 face
 basket
-hut
 twigs
-pillar
-
-closeup
+cow
 swimwear
 branches
+machine
+lake
+driveway
 train
 baby
-canal
+supercar
 nose
 wooden
 jet airliner
-cow
+headlight
+flowers
 mountainside
-machine
-lake
+plant
+rifle
+plate
 hair
 lid
-driveway
-supercar
 restaurant
+bag
+bench
+windscreen
 concrete
 garden
 cafe
-flowers
-plant
 mud
+flower
 wet
-rifle
 holding
 european
 leaves
-plate
 trailer
 ear
-bag
-bench
+vehicle
+excavator
+mountain bike
+ship
 pickup truck
 stone
-headlight
+table
 derelict
 brick
 lion
 squirrel
 swimming
-flower
 jumping
 frame
 mist
+container
 posing
 fallen leaves
 SUV
-vehicle
 bucket
-excavator
-mountain bike
-ship
-windscreen
+pebbles
 dress
 backrest
+hat
 model
 painting
 platform
+metal railing
 kitchen
-container
 pond
 cake
+jetty
 machinery
 coat
+fruit
 buildings
 strap
-pebbles
 monkey
-hat
+barrier
 fish
-table
-metal railing
+underwater
+sign
+litter
 crouching
 singing
 windows
+net
+blue sky
 skin
 kneeling
 jeep
 ramp
 bushes
 rubble
-jetty
-fruit
 pool
 crate
+crowd
 cockpit
 asian woman
+soldier
 people
+luxury car
 fighter jet
 dry soil
 reclining
 foreleg
-barrier
 sleeping
 cap
 marina
 deer
 graffiti
 turtle
-underwater
-sign
 plastic
-litter
+cart
+monument
+laptop
+cobblestone
 text
 canopy
 sport
-net
 reading
 lying
 back
+slice
 jacket
 docks
 harbour
-crowd
+city
 lizard
 blade
-soldier
-luxury car
 bar
 hindleg
 town
 walkway
 owl
 structure
-cart
+bin
 barn
+bread
 stack
+archway
 running
+bark
 sportswear
 goal
 helmet
 crane
 jar
 carrying
-slice
-blue sky
+brick wall
 bulldozer
 frog
+parking space
 coach
 dry mud
 musician
-city
 torso
 undercarriage
 crocodile
 tool
+straw
 chicken
 dinosaur
+handlebar
 shop
 doll
 river bank
 rope
 stunt
-bin
+sunset
 rabbit
 hull
-laptop
-bread
-archway
+dry leaves
 tractor
-bark
 parrot
-monument
+cathedral
+branch
+bollard
 tunnel
+car park
 leopard
+dry grass
 jug
 lying_down
-brick wall
 drink
 angry
 meat
+saddle
 dancing
-parking space
+stone wall
+steps
 shadow
 working
 squatting
@@ -291,51 +304,45 @@ tiger
 riding
 sword
 neck
+pushchair
 shell
 exhaust pipe
 barrel
 ceiling
 magazine
-straw
 retail
 racing bike
 hotel
-handlebar
+desk
 strut
 giraffe
-sunset
 goat
-dry leaves
+gate
+bear
 keyboard
-cobblestone
 wearingSportswear
 temple
 shirt
 turret
 shoe
+paved area
 poster
-cathedral
 wing mirror
-branch
-bollard
+pancake
 alligator
 cloud
-car park
 desert
-dry grass
+puddle
 mast
- head
+post
 passenger
 device
 suit
 packet
 mouse
-saddle
 stream
 female child
-stone wall
 chef
-steps
 smoke
 beak
 trash
@@ -344,140 +351,159 @@ mudguard
 asian man
 dining room
 ice
+chimney
 clothing
 fuselage
-pushchair
 tortoise
 pub
 jet aircraft
 sack
 shelf
 furniture
+book
 collar
 fox
+mountains
 carriage
-desk
 oranges
+saucer
 tire
+string
+debris
+wristwatch
+tree trunk
 drawing
 headrest
-gate
-bear
-woman 
+palm tree
 old
 port
 trail
 track
 tent
-paved area
 greenhouse
 snail
+stadium
 swimmer
 steering wheel
 forklift
 astronaut
-pancake
 ornament
+sofa
 dock
 workshop
 street
 tabletop
+vintage car
 ruins
 diving
 ball
+dashboard
 pouring
-puddle
+knife
 foilage
-post
+knee
+pedestrian crossing
 architecture
 exercise
 target
 vines
 pipes
+taxi
 sheep
 dessert
 parade
 mug
+railway station
 pink flower
 playingVolleyball
 woodchips
+skyscraper
 jet engine
 cables
 industry
 vegetables
-chimney
+grapes
+boot
 axe
+runway
 propeller
 confectionary
+paper
 fridge
+wheelie bin
 wheelbarrow
-book
 village
 perched
 flames
 skeleton
-mountains
 shed
 garage
 tongue
 castor wheel
 bonnet
+gun barrel
 mannequin
 wearingDress
+wooden fence
+overpass
 sportscar
 firefighter
 surface
 kitten
 racing car
-saucer
 cable
 cycle lane
 skull
-string
-debris
-wristwatch
+mostly head
+handrail
 log
-tree trunk
 rail
 art
 skip
 screen
-palm tree
 armrest
 drinking
 pastry
 costume
+sports car
 hill
 office
 exercising
+metal fence
 football
-stadium
+stage
 dial
 stretching
 rice
-sofa
 mulch
 stones
 hole
-vintage car
+license plate
 landscape
 elegant
+central reservation
 bed
-dashboard
 telescope
 bikini
 washing machine
 yacht
 eating
+flotation device
 boy
 nuts
+rucksack
+chain
 umbrella
+traffic island
+cliff face
 asphalt
-knee
+construction machine
+shoulder
 warehouse
 haed
-pedestrian crossing
+musical instrument
 folaige
+night sky
 room
 teapot
 silhoette
@@ -495,7 +521,6 @@ blonde
 dry_soil
 mask
 skewer
-taxi
 juice
 tank
 festival
@@ -505,55 +530,50 @@ library
 playground
 coffee cup
 airport
-railway station
-skyscraper
 koala bear
 wooden platform
 wet sand
+cars
 spectators
+vegetable
 plastic bottle
-grapes
-boot
 roll
-runway
 jeans
 biplane
 diver
 ape
 tail fin
-paper
 fuel tank
 handlebars
 cannon
 bottles
-wheelie bin
 saw
 hoof
 biscuits
 glass jar
+fire
 writing
 scoop
 female
+wheeliebin
+drop handlebar
 row
 backhoe loader
-gun barrel
 suitcase
 cover
 camper van
-wooden fence
-overpass
 butterfly
 bike
 gravel path
 ridingBicycle
 torch
 trick
-mostly head
-handrail
+flag
+smartphone
 paint
 wooden post
+photoshopped
 playingGuitar
-sports car
 serving
 looking
 rider
@@ -565,73 +585,80 @@ waves
 aerial work platform
 lyingDown
 lens
-metal fence
 silo
 cooker
 rowing
 cycling
+clock face
 motorscooter
 chin
 stew
 store room
-stage
 palace
 fencepost
 pot
 purple flower
 cloth
+grill
 photograph
+blanket
 swamp
+pipe
 leaf
-license plate
 gearwheel
+sun
 tag
 tail light
 party
 spread
+classic car
 home
 embrace
 bee
 entrance
 typewriter
+derelict building
 stool
 sunbathing
-central reservation
+saucepan
 lying down
 horn
 kettle
 biscuit
 climbing
 talking
-flotation device
 mirror
-knife
-rucksack
-chain
+street light
 hedge
 dish
-traffic island
-cliff face
 stroller
+mini excavator
 harness
 canal boat
+guitar
 fork lift
+carpet
 floor
 plank
+hood
+map
 riverside
-construction machine
 wheat
 pasta
 monitor
 elbow
-shoulder
+table top
+saloon car
 birds
 rug
-musical instrument
- hand
+spinach
+apartment block
+convertible car
+cactus
 pesron
+pizza
 mammal
-night sky
+driver
 orange juice
 dust
 berries
@@ -675,14 +702,15 @@ bus stop
 off road vehicle
 minifig
 teacup
+glass building
 bricks
+bird house
 canoe
 tires
-cars
 skyscrapers
 camel
+air intake
 squash
-vegetable
 lawnmower
 bunch
 holdingCamera
@@ -703,12 +731,12 @@ motor scooter
 muzzle
 seats
 chandelier
+shop front
 camouflage
 octopus
 hay
 hedgehog
 narrowboat
-fire
 skateboard
 touring bike
 campervan
@@ -716,12 +744,11 @@ sidewalk
 flamingo
 male
 exhibition
-wheeliebin
+overcast sky
 holdingSmartphone
 joint
- cabin
+balcony
 human skeleton
-drop handlebar
 african man
 person sitting
 rotor blades
@@ -743,7 +770,6 @@ african woman
 artefact
 lemur
 swan
- sky
 wooden bridge
 minivan
 rhinocerous
@@ -751,14 +777,13 @@ wires
 lightbulb
 daisy
 doorframe
-smartphone
 carpark
 stormtrooper
-photoshopped
 windsurfing
 waste container
-man 
+wooden tabletop
 pie
+cage
 customer
 fly
 old man
@@ -769,6 +794,8 @@ chalkboard
 pointing
 suburban
 jewellery
+headphones
+table fork
 mercedes
 splash
 diorama
@@ -782,7 +809,6 @@ cliffs
 hob
 graveyard
 hook
-clock face
 visor
 railway
 painted
@@ -800,28 +826,24 @@ fallen_leaves
 red flower
 photoshop
 yellow flower
-grill
-blanket
+wicker basket
 market
 audi
-pipe
+bus shelter
 facemask
 image
-sun
 cyclist
+park bench
 train interior
 concentrating
 paintbrush
-classic car
 car door
 repair
 bujilding
 slope
 crow
-derelict building
 upperbody
 coupe
-saucepan
 hjead
 derelict boat
 cartoon
@@ -834,27 +856,30 @@ sidecar
 cookie
 wake
 tablecloth
+salad
 cheese
 speedometer
+tomato
+pen
+spatula
+fork
 railway track
-street light
+metal barrier
 napkin
-flag
+cushion
 basketball
+railing
+traffic lights
 alleyway
 bulding
 pallet
+ferris wheel
 omlette
 footbridge
-mini excavator
-guitar
 tiles
 caterpillar tracks
-carpet
 serviette
 belt
-hood
-map
 market stall
 lamp
 canyon
@@ -862,37 +887,40 @@ gun
 oar
 foo
 ladder
-table top
-saloon car
+hatchback car
 traction engine
 finger
 arrow
 stick
-spinach
 cabbage
 ladle
 mansion
-apartment block
 cyclepath
-convertible car
+canister
 waterfall
-cactus
+frost
+hydraulic ram
+bucket scoop
 woan
 parked car
-pizza
 flame
 doot
- clouds
+buttercup
+smartphone in hand
+convertible sports car
 button
 bouquet
+blueberry
+metal barrel
 spoon
 chick
-driver
 insect
 grille
+junction
 beverage
 drawer
 case
+streetlight
 happy
 baloon
 gence
@@ -975,19 +1003,17 @@ skateboarding
 minibus
 postbox
 man running
+woman standing posing
 cosplay
 rickshaw
 plant_pot
 top
-glass building
 concrete blocks
-bird house
 sparks
 motorbikes
 mining
 asian woman sitting
 smoothie
-air intake
 tea cup
 crackers
 aircraft carrier
@@ -1034,8 +1060,8 @@ pinecone
 shoes
 flying fish
 showroom
-overcast sky
 houses
+telephone box
 mushroom cloud
 teddy bear
 lego technic
@@ -1045,6 +1071,7 @@ ice cream
 textile
 cheek
 packaging
+tablet computer
 hands
 tramline
 metal girder
@@ -1062,6 +1089,7 @@ cigarette
 snowman
 bamboo
 tiltshift
+many apples
 floor tiles
 sliced strawberry
 calipers
@@ -1069,7 +1097,14 @@ lights
 wooden box
 quadbike
 boxes
+many people
+one apple
 bus lane
+curb
+1 dog
+sparse cars
+many persons
+mostly pavement
 curtain
 sorting
 railway station platform
@@ -1077,10 +1112,14 @@ tricycle
 slug
 glider
 manta ray
+foreground man
+many person
+far car
 couds
+mostly apple
+mostly foliage
 unoccluded sky-blue sky
 head.man
- monument
 elephants
 seal
 passenger train
@@ -1109,7 +1148,6 @@ footprints
 frowning
 bristles
 lionfish
-cage
 hub
 trunk
 tusk
@@ -1129,8 +1167,6 @@ earring
 necklace
 bow tie
 holdingHandrail
-headphones
-table fork
 soldiers
 luxuryCar
 porsche
@@ -1152,12 +1188,14 @@ magnifyingGlass
 lighthouse
 spider
 headwoman
+derelict truck
 parachuting
 bison
 gear stick
 purse
 jungle
 tarmac
+sliced avocado
 raft
 spider web
 sealife
@@ -1194,7 +1232,6 @@ ribbon
 chocolate
 crumbs
 cooked
-wooden tabletop
 metal cup
 shack
 shock absorber
@@ -1204,15 +1241,14 @@ wooden tray
 smartwatch
 white
 fireworks
+sachet
 nibbles
 parked motor scooter
 storeroom
 head.
-wicker basket
 super car
 ferrari
 boxing
-bus shelter
 fower
 rose
 bud
@@ -1220,12 +1256,12 @@ hard shoulder
 narrow boat
 hairdresser
 hilside
-park bench
 livestock
 gift box
 bookshelf
 exercise equipment
 metal bridge
+closed book
 broken
 hardhat
 ridingHorse
@@ -1284,160 +1320,264 @@ shopkeeper
 sittingOnGround
 stepladder
 drum kit
-salad
 deckchair
 aerial view
-shop front
+traffic cone
 shopping trolley
-tomato
-pen
-spatula
-fork
+traffic light
+lamp post
 fern
-metal barrier
+road sign
+litter bin
+sunglasses
 fishing rod
-cushion
+pine cone
 drawers
+tie
 chainlink fence
+radio tower
 towel
+pear
+wooden table
+mushroom
 radiator
-railing
-traffic lights
+condiment dish
+traffic sign
+computer mouse
+semi trailer
+computer keyboard
+plastic barrier
+drain pipe
+spectacles
+fence post
+tower crane
 flour
 plants
+shopping bag
+car park entrance
+plant pot
 metal gate
+sign post
 construction site
 metal_fence
 trackpad
-ferris wheel
+building materials
 pillow
 water bottle
 kettlebell
-balcony
+table knife
+chopping board
+wrist watch
+egg box
+hose pipe
+wire fence
 pizza box
+no entry sign
 tongs
 lantern
 swimming pool
 wooden pillar
 paving
 beans
+wooden door
 truss
+wire basket
 concrete wall
 frying pan
 wine
 gras
 leash
 ring
+roadworks sign
+doily
+surf board
 wallet
 crucifix
 shipping container
+egg shell
+egg yolk
+emergency vehicle lighting
 cupboard
 petrol pump
+wooden spoon
+beanie hat
+garnish
 metal shutter
 shale
 sandbag
 satchel
+drain cover
+water spray
+grated cheese
 low wall
 welding torch
 glove
+condiment shaker
 camera lens
 bacon
-hatchback car
+cutlery
+wooden floor
 watermelon
 whiskers
 rear view mirror
 electronics
+fairground ride
 tram
 mat
 gym
+stethoscope
 plunger
 sunflower
+parking meter
+tower block
+sliced apple
+table cloth
 weight
 vehicle tracks
 fog
+electric socket
 shotgun
+firearm
 beverage can
 mamal
+mid engine sports car
 pedal
 glass door
+wooden table top
 backpack
+birds nest
+closed laptop
 estate car
 picture frame
 buttstock
 sink
 door handle
-canister
+sliced tomato
+painted egg
 lamppost
 rainbow
+warning sign
+sedan
 windscreen wiper
- tree
-frost
+double decker bus
+sliced vegetable
+electric cooker
 workman
-hydraulic ram
 catepillar tracks
+pizza slice
 buiding
- dog
- headlight
+multi storey car park
 stilts
- glass
- cobblestone
 hybrid bike
+paving stones
 CGI
 flock
- roof
 bottle top
+exterior staircase
+sliced meat
+table tennis table
+pizza board
+few cars
 adult
+background vegetation
+foreground woman
 plastic wrapper
-buttercup
-smartphone in hand
+foreground cat
+background foliage
+brick building
+sliced melon
+asian text
+open notebook
+cup in hand
 wok
 spare tire
- blue sky
 pocket
+camera in hand
 had
+metal drain cover
+cup on saucer
 char
- soil
+apple in foliage
+plate on wooden table
+apple in basket
+smartphone on table
 persn
 handle in hand
 perso
-convertible sports car
+metal post
+wooden chair
+distant car
 hat on head
+saucer on desk
 cycle path
 object in mouth
 cycle_lane
 caterpillar
+heavy equipment
+wooden bollard
 base
 tea bag
-bucket scoop
 pineapple
 trolley
 embankment
 microphone
 spotlight
 glass tray
+book in hand
+just pizza
+just car
+just apple
+few apples
 dry_leaves
+mostly pizza
+1 pizza
+mostly (building|pavement)
+sparse person
 peron
+few persons
+sparse car
+few car
+mostly grass
+mostly woman
+barrier post
+mostly person
+many chair
+periphery building
+mostly cat
+mostly dog
+just dog
 pebble
 mostly sky
+few person
 sky-blue sky
+just egg
+closeup pizza
 bluesky
+many fruit
+many apple
+tipper
 big cat
 intake
 road vehicle
-blueberry
 oman
+dual carriageway
 skirt
- windscreen
 sticker
 walll
+ice cream van
 cabinet
 gutter
 ditch
-junction
+single yellow line
+plastic fork
+traffic bollard
 grss
 pothole
+wooden object
 billboard
 soli
+car dashboard
+little sky
 headboard
 perspex
 hydraulics
@@ -1461,12 +1601,10 @@ bath
 hips
 tile
 caterpillar track
-metal barrel
 body
 agriculture
 open door
 headscarf
-streetlight
 concert
 auditorium
 dustpan
@@ -1752,7 +1890,6 @@ elephant sculpture
 man climbing
 man snowboarding
 sparse people
-woman standing posing
 plastic barriers
 trees on hillside
 mandalorian
@@ -2154,7 +2291,6 @@ man holdingSmartphone wearingCoat
 sliced raw salmon
 ab
 man sitting singing playingGuitar
- shop front
 audi badge
 foiage
 storm clouds
@@ -2237,9 +2373,7 @@ wigwam
 panoramic view
 electric handheld torch
 water melon
- balcony
- many eggs
- telephone box
+many eggs
 near person
 woman holding bag
 Volkswagen beetle
@@ -2274,7 +2408,7 @@ Clam
 Lemon
 skirt on woman
 shoe on woman
-woman in swimwear sitting 
+woman in swimwear sitting
 stone low wall
 african woman standing
 Gatling gun
@@ -2308,7 +2442,6 @@ catching
 titlepage
 rainbox
 cat on chair
- tablet computer
 baking tray
 jacket on woman
 woman singing
@@ -2394,8 +2527,7 @@ transparent plastic case
 hanging rail
 tastle
 landsccape
- pizza on pizza board
- many apples
+pizza on pizza board
 black cab
 hand in hand
 rock in river
@@ -2487,14 +2619,10 @@ man singing playingMusicalKeyboard
 man sitting playingGuitar
 man ridingBicycle jumping performingStunt
 man standing leaningBack looking
- pan
+pan
 3 apples
- many people
 plate on table
 1 apple
-one apple
- curb
- flag
 3 dogs
 1 large dog
 2 small dogs
@@ -2502,13 +2630,11 @@ one apple
 1 person
 6 sheep
 groupofsheep
-1 dog
- group
+group
 5 apples
 just apples
 7 apples
 construction materials
-sparse cars
 mostly building
 (mostly (grass|tree|sky))
 mostly (grass|tree|sky)
@@ -2530,12 +2656,10 @@ mostly dried_apple_slice
 mostly (road|pavement)
 mostly (pavement|sky)
 wooden handrail
- many persons
- mostly persons
+mostly persons
 mostly (building|road|sky)
 mostly (sky|road|building)
 3 smartphone
- mostly pavement
 person wearingSportswear
 person lyingDown wearingSportswear
 woman sitting wearingHeadscarf
@@ -2581,7 +2705,6 @@ qq
 toy monkey
 near man
 near woman
- foreground man
 mostly (man|woman)
 (man+woman)\u0026gt;grass
 (man+woman)\u0026gt;foliage
@@ -2593,7 +2716,6 @@ pavement\u0026gt;sky
 pavement\u0026gt;building
 pavement\u0026gt;person
 building\u0026gt;person
- many person
 sparse tree
 grass\u0026gt;dog
 grass\u0026gt;foliage
@@ -2611,25 +2733,22 @@ road\u0026gt;building
 (road+pavement)\u0026gt;sky
 river\u0026gt;sky
 river\u0026gt;road
-far car
 building\u0026gt;pavement\u0026gt;sky\u0026gt;foliage\u0026gt;bin
 road\u0026gt;car
 cruise_ship\u0026gt;river
-mostly apple
 mostly cruise_ship
 mostly (road+sky)
 plate in hand
 2 plate
- many car
-mostly foliage
+many car
 foliage\u0026gt;apple
 few vehicle
- mostly dry_leaves
+mostly dry_leaves
 background\u0026gt;dog
 cat\u0026gt;foliage
 near cat
 acorn
- foreground acorn
+foreground acorn
 toy lion
 inner tube
 plastic seive bowl
@@ -2663,7 +2782,6 @@ dishware
 scuplture
 unoccluded grass
 man standing hiking
-woman standing posing 
 man playingGolf
 measuring instrument
 person drinking driving
@@ -2714,7 +2832,6 @@ kitchen appliance
 buidlings
 learning
 hand on paper
- underwater
 woman sittingOnGround
 woman standing holdingUmbrella carryingBag
 car window
@@ -2779,7 +2896,6 @@ Aluminum foil food container
 policeOfficer ridingHorse
 decorative clothing
 ships
-wheeliebin 
 metal beverage can
 man standing holdingClipboard
 man sitting wearingHat lookingBack
@@ -2797,8 +2913,6 @@ watersports
 man walking standing standingOnFootball
 man sitting writing
 man sitting usingLaptop
-wooden tabletop 
-laptop 
 man working holdingWeldingTorch wearingHat
 asian man wearingSunglasses
 man standing lookingSideways
@@ -3104,7 +3218,6 @@ holdingBall
 bicycle cassette
 bicycle wheel spokes
 quick release lever
-derelict truck
 tree truck
 railway sttion
 typewriter keyboard
@@ -3132,7 +3245,6 @@ plastic baga
 urfing
 wooden window shutter
 voliage
-sliced avocado
 handperson
 broken image
 ~spot
@@ -3534,7 +3646,6 @@ gas cannister
 [chainlink fence]
 white flwoer
 layercake
-sachet
 european woman sitting
 european man sitting
 child walking
@@ -3579,7 +3690,6 @@ ice skating
 african man standing
 derelict house
 plastic sack
-person 
 european man
 european woman
 arm on woman
@@ -3602,7 +3712,7 @@ woman sitting inBed holdingSmallBox
 small box
 person standingWorking
 person crouchingWorking
-girl leaningBack standing 
+girl leaningBack standing
 asian temple
 yy
 metal tap
@@ -3694,7 +3804,6 @@ parked motorbikes
 asian street
 woman leaning standing
 diamonds
-closed book
 plant pots
 wpoman
 old man standing leaning
@@ -4062,37 +4171,28 @@ cameras
 3D scanner
 holdingFlowers
 Beetle
-traffic cone
 shop building
 scaffhold
 stop sign
-telephone box
 boom barrier
 berry
 parcel
-traffic light
 stoller
 telephone
-lamp post
 pencil
-tablet computer
 suv
-road sign
 dinner plate
 candle
 salad bowl
 escalator
-litter bin
 flipflop
 perfume
 sea shell
-sunglasses
 potato
 window shutter
 floatation device
 dumbell
 metal stool
-pine cone
 christmass decoration
 eyeglasses
 wood flooring
@@ -4104,32 +4204,20 @@ lampshade
 road junction
 scaffold
 storage tank
-tie
-radio tower
-pear
 carrot
 vegtable
-wooden table
-mushroom
 utility pole
-condiment dish
 sandal
-traffic sign
 handbag
-computer mouse
 fire engine
 garlic
-semi trailer
 semi truck
 flatscreen monitor
 moon
 Cowboy hat
-computer keyboard
 office chair
 letterbox
-plastic barrier
 chilli
-knife 
 sweetcorn
 chilli pepper
 scissors
@@ -4139,24 +4227,16 @@ road bike
 bicycle helmet
 electricity pylon
 concrete barrier
-drain pipe
 electric enclosure
 scaffolding
 asian conical hat
 onion
-spectacles
-fence post
-tower crane
 egg white
 wooden ladder
 metal  fence
-shopping bag
 subway station
-car park entrance
 electric light
 toy rabbit
-plant pot
-sign post
 baseball cap
 starfish
 staircase
@@ -4173,7 +4253,6 @@ snorkel
 compass
 goggles
 feather
-building materials
 glasses
 academic cap
 desktop pc
@@ -4182,19 +4261,14 @@ egg cup
 one way sign
 barb wire
 boxing glove
-table knife
-chopping board
 gloves
 ski pole
 lemon
 bike park
 beer bottle
 cobbled road
-wrist watch
 roundabout
-egg box
 peppers
-hose pipe
 ski
 pannier
 desk lamp
@@ -4204,10 +4278,8 @@ litter_bin
 car_park_entrance
 wheelie_bin
 world map
-wire fence
 metal pipe
 gym mat
-no entry sign
 direction sign
 strawberry
 advertising billboard
@@ -4243,9 +4315,7 @@ Ring (jewellery)
 chillies
 chain barrier
 low stone wall
-wooden door
 rowing machine
-wire basket
 no parking sign
 flip flops
 perfume bottle
@@ -4280,7 +4350,6 @@ ear ring
 london person
 tv
 tap
-roadworks sign
 solar panel
 vine
 usb cable
@@ -4294,33 +4363,24 @@ asparagus
 mobile phone
 clip board
 table  fork
-doily
 hair clippers
 machine tool
 keys
 paint brush
 wooden board
 workbench
-cobblestone 
 dried apple slice
 wooden basket
-surf board
 teaspoon
 business card
 nest
-egg shell
-egg yolk
 carpark entrance
-emergency vehicle lighting
 kitchen  knife
 advertising sign
 egg beater
 petrol station
 bubbles
-wooden spoon
-beanie hat
 dough
-garnish
 ring (jewellery)
 paper document
 cowboy hat
@@ -4347,16 +4407,12 @@ runner beans
 frisbee
 gravestone
 jet ski
-drain cover
-foot 
 portacabin
-water spray
 avocado
 mitten
 power brick
 bean bag
 water cress
-grated cheese
 bread rolls
 picnic table
 sheet music
@@ -4378,13 +4434,10 @@ sand dune
 suitacase
 plant po
 lead weight
-condiment shaker
 christmass tree
 wrapped present
 cartoon rabbit ears
 sand bag
-cutlery
-wooden floor
 cruise_ship
 pizza cutter
 bird nest
@@ -4397,7 +4450,6 @@ sun roof
 step ladder
 pram
 wrist
-fairground ride
 water sprinkler
 lock
 hurdle
@@ -4409,7 +4461,6 @@ high-rise building
 wooden flooring
 overhead walkway
 rear-view mirror
-stethoscope
 boccoli
 celery
 broccoli floretes
@@ -4443,14 +4494,10 @@ flyover
 ATM
 cabbage leaf
 beaker
-parking meter
-tower block
 salt pot
 sliced egg
-sliced apple
 eyeball
 post it note
-table cloth
 red nose
 cloak
 charging cable
@@ -4461,23 +4508,17 @@ sliced bell pepper
 assault rifle
 rice cooker
 peeled banana
-electric socket
 office block
 weapon
-firearm
 trigger
-mid engine sports car
 sandwich
 rocking chair
 give way line
-wooden table top
 porcelain rabbit
 adhesive bandage
 usb stick
 dry pasta
 floodlights
-birds nest
-closed laptop
 safety goggles
 sliced orange
 tape measure
@@ -4487,7 +4528,6 @@ boxing ring
 light
 pendant
 wooden crate
-car 
 book shelf
 spare wheel
 air conditioning unit
@@ -4500,7 +4540,6 @@ sliced pizza
 raspberry
 street sweeper machine
 router
-sliced tomato
 salad leaves
 metal ra
 kerb
@@ -4509,448 +4548,213 @@ manhole cover
 plastic bottle top
 mini guitar
 monitor stand
-painted egg
- pavement
- grass
- foliage
- saddle
- man
- hat
 mixing deck
- road
- handlebar
 salad leaf
- path
 buildingroof
 letter box
- lamp post
- gate
- handrail
- warning sign
- sign
 bid
- hatchback car
- saloon car
- traffic lights
- sedan
- tree trunk
- apartment block
 cathedralbollard
- bottle
- wall
 hanging basket
 sulpture
- building
- sliced apple
 wallnut
- flower
- steps
 terraced house
- cathedral
 windsceren
 taillight
 ash tray
- door
- puddle
 no parking
- keep clear
- wooden door
+keep clear
 mercedes badge
- bus
-double decker bus
- van
 kiosk
 dense crowd
- table fork
- bread
- table
- smartphone
- person
- sofa
 duster
 flatscreen tv
 airconditioning vent
 sliced fruit
- sliced vegetable
 peach
- plant
 sliced cabbage
- litter
 plastic wrap
- electric cooker
- rucksack
- chimney
 bicyclebicycle helmet
- street light
- boot
 hanging lantern
 derelict car
- plant pot
- plastic barrier
- litter bin
- laptop
- computer keyboard
 treee trunk
- musical instrument
- chain
- pebbles
 tailstatue
- river
- woman
 hatchback  car
 good
- car
 people carrier
 berrier
- taxi
 fingernail
- garnish
- license plate
 axi
 tree tunk
- chopping board
- electric socket
- traffic cone
 scoop bucket
- bucket scoop
- sign post
 bush shelter
- traffic sign
- look left
- bush
+look left
 motuh
- house
 cape
- tower block
- paved area
- bark
- metal railing
- bollard
- foot
- pillar
- palm tree
 stationary
- egg box
- apple badge
+apple badge
 wristwristwatch
- ferris wheel
- double decker bus
- church
-sedan
- park bench
- railing
- stone wall
- drain pipe
 road centreline
- table knife
- sliced avocado
- salad
- no entry sign
-pizza slice
- sunglasses
 hatchback crabgrass
 togue
 traffic light post
- plate
- vegetable
 shopping mall
- shopping bag
- branch
- pile driver
- barrier
+pile driver
 tere
- closed laptop
- computer mouse
 spectables
 party hat
- cup
 hand.cup
- tomato
 pavemnt
 roadapple
- saucer
- egg shell
- snowdrop
+snowdrop
 wooden  table top
- wooden table top
 shounder
- derelict building
 ear phones
- driveway
- multi storey car park
- sand
 golf club
 chid
- metal barrier
- flotation device
- boat
-multi storey car park
 pavemetn
- food
- table cloth
 dentist chair
- medical chair
- medical implement
- tray
- condiment dish
+medical chair
+medical implement
 metal staircase
- parking space
 foliate
 french fries
- fence
 banana peel
- bench
- fruit
 painted eggplant
 wooden bowl
- shoulder
- book
 sliced banana
- bridge
 drain pipecar
 sliced watermelon
- fork
- ship
- gun barrel
 radar dish
 tattoo
- big cathead
+big cathead
 oof
- table top
 owman
 fastback car
 paevment
- table 
 streetstreet light
- bag
 riverboat
 metal bollard
- hut
- overpass
- road sign
- clock face
 power chord
 rub
- wooden floor
 fence pose
- paving stones
 corrugated metal
- animal feed
+animal feed
 payphone
- wrist watch
- stethoscope
 tree  trunk
-electric cooker
- radio tower
 saucepan lid
- tie
 electric switch
- brick wall
- wheel
- field
- rocks
- construction machine
 tower blockhouse
- building materials
- driver
 sandwich wrapper
 waist bag
-exterior staircase
- mushroom
- city
- cushion
- truck
- convertible car
 sliced onion
- roadworks sign
- beach
 woodenwindowTV
 wooden pizza board
 olives
- sliced meat
 table tennis bat
- table tennis table
- net
- picture
 dark clouds
-many apples
- bird
 revolving door
- chair
- vegetation
-pizza board
 christmas tree lights
 christmas tree
- blanket
- dashboard
 shop font
 ca
- sculpture
 doube decker bus
- pizza board
- spatula
- pizza slice
- trees
 paement
- sun
- doily
- hood
-few cars
- few far people
- canal
- bicycle
+few far people
 speed bump
 metal container
 few dogs
- emergency vehicle lighting
- motorbike
 far person
 rain
- mini excavator
 motorsport
 closed wheel racing car
- pizza boat
+pizza boat
 dogtail
 head.dog
-background vegetation
-foreground woman
- few cars
-foreground cat
- background vegetation
 foreground dog
 background fence
 one car
 few eggs
- one basket
+one basket
 many flowers
-background foliage
- background tree trunk
- cars
+background tree trunk
 stone bollard
- brick building
 one woman
- animal
- bear
-brick building
 few far car
 apple peel
- rock
 open book
- closed book
- sliced melon
-asian text
- car park entrance
-open notebook
-cup in hand
 open laptop
 spatula in hand
- pear
- kitchen utensil
+kitchen utensil
 apron
 roadhouse
 derelict warehouse
- convertible sports car
- lake
- knife
 sports carlow all
 white coat
- sports car
- stadium
- dry sand
+dry sand
 streettree
 steet light
-camera in hand
 stretched limousine
- post
 traffic_cone on pavement
 lamp pos
 puppy dog
- metal drain cover
-building 
-cup on saucer
 dog in window
 cat in grass
- painted egg
- knee
- traffic island
- slice
- blueberry
 sliced nuts
- smartphone in hand
- fire
- grill
 apple in hand
- ground
 board
 person on rocks
- snow
- apple in box
+apple in box
 dog in vehicle
-apple in foliage
 piza on pizza board
 autumn leaves
 sliced apple in bowl
- bowl
 tabl
 bowl on table
- fork on table
+fork on table
 spoon on table
- egg on plate
- woman in sea
+egg on plate
+woman in sea
 scarf on dog
 dog in hand
 dog on grass
-paving stones
 pizza on plate
-plate on wooden table
 dog in grass
- woman on grass
+woman on grass
 man in grass
 woman in grass
- archway
- spinach 
 dog on sofa
-apple in basket
- condiment shaker
 man on rock
- mountains
 dog on chair
 curbstone
 pen in hand
- smartphone on table
 woman on chair
 hande
- machine
 raised platform
 dog on cushion
 car on road
 foiliage
 glassshop building
 milk in jug
- cream in jug
- cup in hand
+cream in jug
 tow truck
- derelict truck
 stick in hand
 picture in sand
 person in fog
- person in mist
+person in mist
 pony tail
 traffictraffic island
 grass verge
 boat on sand
- car onoad
+car onoad
 person on pavement
- ball on grass
- person on pavment
+ball on grass
+person on pavment
 person carrying bag
- bag on shoulder
+bag on shoulder
 cat on towel
 leah
- jetty
 dog on snow
 cat on carpet
- guitar
 dog on blanket
 dog on book
 book on blanket
@@ -4958,30 +4762,19 @@ courgette on plate
 dvegetable
 cat on grass
 dog on sand
-metal post
 pedestrian
 shift
- glass building
- sliced tomato
- sliced tomato in pizza
- luxury car
+sliced tomato in pizza
 cat on floor
- head in hood
+head in hood
 window frame
 picture in hand
 bird on handrail
- metal fence
- plate on wooden table
- apple in basket
 ail
 armon table
 child on sledge
 woman towing sledge
- wooden chair
 paw in hand
- metal barrel
- wooden table
- spectacles
 man looking_at smartphone
 man holding smartphone
 man on sand
@@ -4989,47 +4782,34 @@ rock on sand
 seafoot
 hand on handrail
 tee trunk
-distant car
 straight road
 hat in hand
- bus shelter
 sliced bread
- pipe
 dog in water
 kettlebell in hand
 vegetable in bowl
- grated cheese
 book on grass
 leaf in book
 dogmtail
 microwaveoven
-smartphone on table
 saucer on table
- cup on saucer
 tablet_computer in hand
-saucer on desk
- desk
 smartphone on desk
- book on desk
+book on desk
 grated_cheese on spinach
- wheelie bin
 strap around neck
 pizza_slice on plate
 child on park_bench
 teddy_bear on park_bench
- open notebook
 book on  desk
- laptop on desk
- saucer on desk
+laptop on desk
 dog on park_bench
- forest
 night sky-blue sky
- central reservation
 crabgrass
 dog on path
 pizza on table
- napkin on table
- wine_glass on napkin
+napkin on table
+wine_glass on napkin
 measuring tape
 paw on cat
 frying_pan on chopping_board
@@ -5039,10 +4819,8 @@ helmet on head
 head in helmet
 dog in sea
 camera on tripod
- camera in hand
 object in (mouth
 dog)
- 
 table on grass
 ((glass
 water) on table)
@@ -5053,66 +4831,47 @@ office_chair
 steering_wheel
 person in car
 harness on dog
- goggles on dog
+goggles on dog
 rock in hand
 manonbicycle
 bicycleonpath
 towerblock
-heavy equipment
- pen
 flow chart
 handwritten text
 snow on tree
- apple in foliage
 glass in hand
 gloves on table
 wing_mirror
-wooden bollard
 cabbage on plate
 taffic lights
 plastic container
 tere trunk
- toy ears
+toy ears
 veil
 street_light
- car park
 silhouette.woman
 irregular stone road
 motor bike
-cylindrical 
- drain cover
+cylindrical
 bollar
- headphones
 claw
 egg_beater
-curb
 double descker bus
- tower crane
- tower
 glass (drink ware)
- camera
- debris
- fence post
 egg in bowl
- egg yolk
 bouncy castle
- child
 inflatable object
 garbage chute
 rubbish chute
- metal basket
- grapes
+metal basket
 just bananas
 security camera
- convertible sportscar
+convertible sportscar
 cat in tree
 unoccluded sky
 dog in snow
 floortiles
- beanie hat
- dog in car
- frost
- handle
+dog in car
 fishing _rod in hand
 woodentray
 beer glass
@@ -5121,153 +4880,95 @@ citycape
 woodenpost
 woodenwooden frame
 dumbell in mouth
- overcast sky
 shopping_trolley
 several person
 football goal net
 clown
-book in hand
 background
 unoccluded background
 person in boat
- cliff face
 just person
-just pizza
 dumbell in hand
-just car
-just apple
 dense apples
-few apples
 three apples
 graass
- runway
- aircraft
- skyscraper
- supercar
 egg in birds_nest
 cloudy sky
 reflective black sphere
 fruit in basket
 wet pavement
- few apples
 wal
 15 apples
-many persons
-many people
 weighing scales
 2 bicycles
 mostly (road|building)
 mostly (sea|sky)
-mostly pizza
- 1 pizza
 mostly (pavement|grass|sky)
 mostly (foliage|grass)
-mostly pavement
- one apple
 foreground child
 background person
 background sand
- basket on grass
- wicker basket
+basket on grass
 nodebook
- cactus
 2 apples
 many cars
 mostly cars
- photo
+photo
 1 hand
 mostly man
 1 smartphone
- background tree
- mostly (building|pavement)
+background tree
 1 pizza slice
 mostly car
-mostly (building|pavement)
 1 tree
 1 baby
 1 bicycle
- mostly foliage
 mostly ~car
 8 cars
 just cat
 mostly (building|road)
- exterior staircase
-sparse person
 barbell on floor
-few persons
 mostly (foliage|sky)
 2 woman
 mostly (building|wall)
- sparse car
- few car
 sparse building
- classic car
 1 plate
 mostly tree
 mostly car park
 1 pizza_slice
- mostly grass
- mostly woman
-sparse car
- sparse person
-barrier post
 unoccluded skyblue sky
- dirt
 sparse van
- excavator
-mostly person
- just car
 mostly bus
 4 vehicle
 2 bus
 1 SUV
-isolatable tree 
- many chair
+isolatable tree
 7 apple
- sparse road
-periphery building
+sparse road
 1 truck
- straw
 2 chair
-mostly cat
 sparse vehicle
 sparse dog
 subject=dog
- cat
-mostly grass
 1 bird
-1 pizza
- pizza 
- mostly cat
-many chair
 3 table
 2 person
 1 egg
- semi trailer
 foreground person
- foreground tree trunk
- mostly head
- foreground cat
+foreground tree trunk
 sparse bus
 tiled road
-foreground man
- foreground woman
 foreground tree
- silhouette
- few persons
 flat handlebar
 3 bicycles
 numeric keypad
 many bottles
- background foliage
 3 tables
 7 chairs
- mostly sea
+mostly sea
 bidge
- vehicle
 sparse grass
 mostly smartphone
- mostly dog
 near hand
 road\u0026gt;pavement
 grass\u0026gt;pavement
@@ -5275,27 +4976,21 @@ near dog
 sand\u0026gt;dog
 sky\u0026gt;dog
 road\u0026gt;sky
-many person
 foreground car
 background car
-just dog
 mostly road
- just dog
 sky\u0026gt;ground
 ~sky\u0026gt;sky
 near pewoman
-mostly woman
 cup\u0026gt;hand
 christmass decorations
- mostly person
 building\u0026gt;sky
 3 persons
 foliage\u0026gt;man\u0026gt;smartphone
 kitchen\u0026gt;woman
 lake\u0026gt;sky
 snow\u0026gt;dog
- periphery person
- periphery building
+periphery person
 road\u0026gt;bicycle
 perhiphery car
 soil\u0026gt;person
@@ -5303,28 +4998,23 @@ just head
 near car
 road\u0026gt;building.sky\u0026gt;building
 car\u0026gt;person
- prestige car
-mostly dog
- apple peeler
+prestige car
+apple peeler
 panorama
- statue
 false colour
- many bicycle
+many bicycle
 decorative
 foreground apple
- photoshopped
 2 dogs
 3 pizza
 7 pizza
- sparse bicycle
+sparse bicycle
 far bicycle
 building\u0026gt;pavement
 fried egg
 building\u0026gt;road
 1 child
 near head
-few person
-just egg
 2 egg
 just dot
 2 apple
@@ -5332,237 +5022,146 @@ mostly field
 5 persons
 9 egg
 wallpaper
- sea
 baskey
 few bicycle
- closeup pizza
 closeup dog
- sparse cars
 mostly mountain
 closeup cat
 backhoe_loader
-closeup pizza
 4 painted egg
 5 tulip
- few van
+few van
 mostly vegetation
 unoccludedd sky
- far car
- carpet
- vintage car
- asian text
 closeup apple
 fewTV
 majn
 just man
 1 pesron
- few person
 periphery car
- dry leaves
-many fruit
 many orange
 pavment
 closeup head
 ladybird
 just woman
 just tree
- 1 dog
 buiolding
-many apple
 many egg
- cart
- distant car
 front engine sports car
- birds nest
- wooden spoon
- wire basket
 6 apples
 unocclulded sky
 2 dog
- gravel
- just pizza
 2 pizza
- stage
- crowd
 rod
 cathedreal
 road roller
 cigarette lighter
- heavy equipment
- hydraulic ram
- tipper
 heavy_equipment
 metalrailing
 computer_mouse in hand
- mostly apple
 few egg
 fewfruit
 manygrapefruit
- traffic light
- mountain bike
- cage
 high heel shoe
- mostly pizza
 rotted apple
 few fruit
-few car
 few book
 closeup woman
 SIM card
- paw
 9 pizza
 sliced head
 post box
 sliced ham
 2 tomato
- firearm
 2 bicycle
 photoshoped
 fireman
 omato
 5 apple
- bin
 animals
 jet intake
 taxiway
- saucepan
 woman\u0026lt;hat
 coins
 keyring
- wood
 metalmetal railing
 just hand
- pancake
 fruit salad
- dual carriageway
- book in hand
 tail_light
 indicator_light
 spelling mistake
- handwritten sign
- wire fence
+handwritten sign
 1 banana
 traffic lightship front
- junction
 flats
 womna
 tailtail light
- water spray
- canister
 protective clothing
- hose pipe
 oxygen tank
 buttress
 2 cat
 closeup  head
- just egg
- box
 giftwrap
 3 apple
 forklift_truck
-sky 
 paintedegg
- ice cream van
 many dog
 forklift truck
- map
- wooden fence
- mid engine sports car
- night sky
 jjug
 and
 3 woman
 3 person
- wristwatch
 handtrail
- railway station
- dry grass
- rifle
- soldier
 cityscape
- just apple
- cow
 5 cow
- flowers
- single yellow line
- foreground foliage
- many fruit
+foreground foliage
 painted brick wall
 metal tube
- spark
- many apple
- plastic fork
+spark
 condiment sachet
- sachet
 chicken wings
- pedestrian crossing
-traffic bollard
- parking meter
 mini pizza
 wooden door frame
 double yellow line
 fol
 cabin.
- string
- barrier post
- wooden bollard
 bodypaint
 3 car
 overcast
- buttercup
- window
 wooden pallet
 tip_opener
 brick.building
- fairground ride
 dir
 y
 widow
- pushchair
 shoe lace
- paper
 pen on paper
 1 pizz
 soap dispenser
 treetrunk
 bird food
- bird house
- wooden object
- surf board
- metal post
- drop handlebar
 metal bowl
 skybridge
 skymdirt
 wineglass in hand
- container
 bu8lding
- traffic bollard
 towertower block
 asphaltgrass
- air intake
 ree trunk
- sunset
 TV ariel
 can
 soil.wood
 metal  railing
- streetlight
 elephand
 elephant trunk
 traffic barrier
 cruise ship
- car dashboard
- cutlery
 treee
 2 man
 foluage
-little sky
- little sky
- pine cone
- giant pizza
+giant pizza
 pabement
- little road
+little road
 sone wall
 umbrella in hand
 overcastoverpass
@@ -5638,7 +5237,6 @@ tree trun
 head in hand
 open sandwich
 reign
-single yellow line
 treeline
 camera mount
 bird-dog
@@ -5714,7 +5312,6 @@ electric hob
 3 cat
 concrete mixer
 window cleaning platform
-wooden object
 wood frame
 plaform
 ubilding
@@ -5841,7 +5438,6 @@ tall chimney
 closed gate
 sandwich shop
 overhead cable
-tipper
 drievway
 able sky
 ~blue sky
@@ -5937,7 +5533,6 @@ show
 stone building
 bin liner
 litter bi
-metal drain cover
 fruit-\u0026gt;apple
 vegetation-\u0026gt;pine needles
 car-\u0026gt;hatchback
@@ -6205,7 +5800,6 @@ poolside
 disposable plastic cup
 chairwoman
 serving dish
-wooden chair
 wooden fance
 ornate building
 jet airliner interior
@@ -6355,7 +5949,6 @@ wooden stool
 ferryboat
 perspex tray
 citrus fruit
-dual carriageway
 road barrier
 plastic box
 golf ball
@@ -6366,7 +5959,6 @@ hedgerow
 car key
 ice hockey
 hockey stockinet
-sliced melon
 residential street
 yogurt
 biulding
@@ -6409,7 +6001,6 @@ postit note
 neon sign
 mountain sky
 wooden bench
-sliced meat
 closeup plant
 fuel cap
 beachhut
@@ -6562,7 +6153,6 @@ game controller
 painted wooden surface
 ~vehicle
 coastal wall
-plastic fork
 plastic cutlery
 dappled light
 toucan
@@ -6749,7 +6339,6 @@ ski lift
 art materials
 hwadlight
 british flag
-ice cream van
 wooden piles
 wooden stilts
 moat
@@ -6770,7 +6359,6 @@ roof tiles
 ~tree
 coil
 mechanical component
-warning sign
 weight belt
 upside down person
 chef hat
@@ -7712,7 +7300,6 @@ confusing image
 illuminated advertizing sign
 closeup.flower
 yellow flowers
-closeup 
 tpwnscape
 purle flower
 hoverfly
@@ -8393,7 +7980,6 @@ chirstmass tree
 tabeltop
 sliced brocoli
 sweatcorn
-car dashboard
 horse drawn carriage
 horse and cart
 skt
@@ -8447,7 +8033,6 @@ mincemeat
 cardboard packaging
 ros
 red pear
-table tennis table
 games
 coffee table
 birthday cake
@@ -8520,7 +8105,6 @@ spirits
 plastic craete
 painted building
 decay
-sliced vegetable
 suin
 public building
 hill vegetation
