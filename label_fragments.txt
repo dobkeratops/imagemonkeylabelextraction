@@ -52,8 +52,10 @@ dodgems
 Botany
 flowe
 totem pole
-Plate of food
-bowl of food
+Plate
+food
+bowl
+food
 lake
 pond
 Canadian flag
@@ -78,21 +80,26 @@ pavement
 wall
 fence
 concrete bridge
-hand of man
+hand
+man
 concrete step
 tables and chairs
 Z
 tray
 box
 woman in swimwear
-ear of woman
+ear
+woman
 person exercising
 man exercising
 woman running
 man running
-hair of man
-skin of man
-lid of box
+hair
+man
+skin
+man
+lid
+box
 tomatoes
 camera strap
 grass
@@ -100,7 +107,8 @@ soil
 stone bench
 grass
 fallen leaves
-saddle of bicycle
+saddle
+bicycle
 tent interior
 cushions
 trumbone
@@ -111,12 +119,15 @@ dog running
 tents
 woman sitting
 kneeling
-skin of person
-hair of person
+skin
+person
+hair
+person
 disposable cup
 woman hiking
 pony
-head of sheep
+head
+sheep
 lake
 river
 boats
@@ -129,9 +140,11 @@ man climbing
 man snowboarding
 cake
 dessert
-glass of juice
+glass
+juice
 sparse people
-statue of person
+statue
+person
 woman standing posing
 plastic barriers
 river
@@ -172,19 +185,25 @@ derelict van
 artefacts
 festival
 parade
-bowl of soup
+bowl
+soup
 meat in gravy
 plastic condiment bottle
 female child
 egg salad
 padlocks on fence
-arm of person
-leg of woman
-arm of woman
+arm
+person
+leg
+woman
+arm
+woman
 topofstonewall
-top of stone wall
+top
+stone wall
 ornaments
-figurine of chef
+figurine
+chef
 baby angel figurine
 ramp
 steps
@@ -201,7 +220,8 @@ vegetation
 grass
 bushes
 child crouching
-head of child
+head
+child
 woman standing eating
 parking space
 bus stop
@@ -212,7 +232,8 @@ clouds
 clothing on woman
 soil embankment
 man riding
-wheel of motorbike
+wheel
+motorbike
 off road vehicle
 bookshop
 library
@@ -225,13 +246,18 @@ woman riding
 wind turbines
 man skiing
 man on skis
-shadow of man
-head of bird
-beak of bird
+shadow
+man
+head
+bird
+beak
+bird
 man on bicycle
-arm of baby
+arm
+baby
 person driving
-head of person in helmet
+head
+person in helmet
 playground
 park
 rubble
@@ -274,7 +300,8 @@ catfish
 man standing
 person riding
 musical instrument drum
-arm of man
+arm
+man
 woman swimming
 child jumping
 castle
@@ -287,7 +314,8 @@ skyscraper
 coach
 bus
 woman lying down
-shadow of truck
+shadow
+truck
 woman arguing
 cows
 dig sitting
@@ -298,12 +326,15 @@ helicopter rotor blades
 woman carrying
 bricks
 concrete blocks
-head of horse
+head
+horse
 twigs and soil
 bird house
 man kicking
-picture of man
-head of koala bear
+picture
+man
+head
+koala bear
 bus
 coach
 parked trucks
@@ -311,14 +342,17 @@ woman sitting eating
 woman sitting drinking
 woman playing violin
 people dancing
-reflection of building
+reflection
+building
 wooden platform
 jetty
 soldier sitting
 dry mud
 soil
-head of elephant
-cabin of truck
+head
+elephant
+cabin
+truck
 snow on trees
 jet engine
 machinery
@@ -328,34 +362,41 @@ boat
 man
 musician
 person praying
-transparent backrest of chair
+transparent backrest
+chair
 coat
 jacket
 woman sittingCrossLegged
-box of tissues
+box
+tissues
 rock
 cliff
 sparks
 smoke
 welding mask
-bowl of fruit
+bowl
+fruit
 dog sitting
 muddy road
 muddy track
-pile of tires
+pile
+tires
 wooden water wheel
 pipes
 cables
 wet sand
 gravel
-leg of horse
-tail of horse
+leg
+horse
+tail
+horse
 text on wall
 cars
 motorbikes
 rubble
 rocks
-statue of dog
+statue
+dog
 canal
 water
 pond
@@ -365,11 +406,13 @@ harbour
 woman sitting smiling
 vegetation
 hillside
-face of woman
+face
+woman
 african woman sitting
 foliage
 bush
-wheel of supercar
+wheel
+supercar
 man squatting
 indian woman sitting
 buildings
@@ -388,13 +431,16 @@ bushes
 driveway
 road
 african man standing feeding
-eye of elephant
-mouth of elephant
+eye
+elephant
+mouth
+elephant
 rubble
 trash
 palm trees
 woman walking
-reflection of duck
+reflection
+duck
 coat hood
 logo on clothing
 truck wheel
@@ -404,12 +450,14 @@ industry
 mining
 man handstanding
 woman posing
-pile of wood
+pile
+wood
 air tank
 breathing mask
 crash helmet
 clothing on person
-ear of person
+ear
+person
 man walking
 clothing on man
 person lying_down
@@ -419,18 +467,27 @@ plastic balls
 woman in swimwear reclining
 river
 lake
-cabin of excavator
-reflection of car
-reflection of castle
+cabin
+excavator
+reflection
+car
+reflection
+castle
 child sitting
-handle of basket
-crate of vegetables
-glass of blended fruit
-glass of smoothie
-head of female child
+handle
+basket
+crate
+vegetables
+glass
+blended fruit
+glass
+smoothie
+head
+female child
 person sitting eating
 woman feeding
-head of statue
+head
+statue
 spectators
 crowd
 man throwing
@@ -450,21 +507,28 @@ foliage
 old man sitting
 child standing
 old woman sitting
-wheel of mountain bike
+wheel
+mountain bike
 woman kneeling crouching
-roof of hut
-mudguard of car
-head of camel
+roof
+hut
+mudguard
+car
+head
+camel
 air intake
-cockpit of aeroplane
+cockpit
+aeroplane
 bucycles
 woman playing guitar
 man playing violin
 man riding skateboard
 person playing sport
 man carrying guitar
-torso of man
-leg of man
+torso
+man
+leg
+man
 shirt on man
 woman standing holding
 man walking carrying
@@ -472,8 +536,10 @@ woman crouching
 buildinga
 brick platform
 asian woman  sitting
-head of asian man
-head of asian woman
+head
+asian man
+head
+asian woman
 c
 woman in shopping trolley
 shorts on man
@@ -483,10 +549,13 @@ man walking carrying bags
 sandals on man
 man standing playing guitar
 jacket on man
-engine of aeroplane
-tail of aeroplane
+engine
+aeroplane
+tail
+aeroplane
 wooden beach hut
-sculpture of elephant
+sculpture
+elephant
 man driving
 metal milk churn
 metal plant pot
@@ -524,35 +593,51 @@ sitting
 snow
 ice
 wooden barrels
-reflection of ship
+reflection
+ship
 tea cup
-bunch of grapes
+bunch
+grapes
 water biscuit
 crackers
-head of girl
-head of tiger
+head
+girl
+head
+tiger
 man writing
 snow on ground
 x
 sundial
 stone plinth
-head of lizard
+head
+lizard
 woman sitting holding guitar
 camouflage jacket on man
-face of man
+face
+man
 military badge
-eye of man
-mouth of man
-nose of man
-ear of man
-bag of trash
+eye
+man
+mouth
+man
+nose
+man
+ear
+man
+bag
+trash
 boot on woman
-roof of house
-window of house
-door of house
-chimney of house
+roof
+house
+window
+house
+door
+house
+chimney
+house
 driveway
-arm of female child
+arm
+female child
 man standing leaningForward
 woman wearingSportswear jumping
 boot
@@ -563,7 +648,8 @@ holdingCamera
 standing
 strap
 camera
-glass of beer
+glass
+beer
 open car bonnet
 toy dragon
 woman
@@ -606,17 +692,23 @@ jeans on woman
 sand
 soil
 vampire bat flying
-head of vampire bat
-wing of vampire bat
-wheel of aeroplane
+head
+vampire bat
+wing
+vampire bat
+wheel
+aeroplane
 glove on man
-head of soldier
+head
+soldier
 pears
 glass object
 fabric
 textiles
-roll of thread
-buttons of clothing
+roll
+thread
+buttons
+clothing
 pins
 pincushion
 woman leaning posing
@@ -629,92 +721,132 @@ metal screws
 gown on woman
 woman sitting holding sword
 sheath
-handle of sword
-blade of sword
+handle
+sword
+blade
+sword
 promenade
 low concrete wall
 mineshaft
 derelict mine
-wheel of mineshaft
-wheel of formula one car
-foot of man
+wheel
+mineshaft
+wheel
+formula one car
+foot
+man
 t shirt on man
 trousers on man
 gym shoe
-head of woman laughing
-skin of leg of woman
+head
+woman laughing
+skin
+leg
+woman
 seat
 bench
 shoe on person
 w
 woman standing leaning
 eggwhisk
-reflection of house
-reflection of people
+reflection
+house
+reflection
+people
 mororbike
 motorbike engine
 lake
 sea
-windscreen of car
-bumper of car
-statue of child
-badge of luxury car
+windscreen
+car
+bumper
+car
+statue
+child
+badge
+luxury car
 helmet on man
 cosplayer
 Star Wars scout trooper
 zebras
-head of zebra
+head
+zebra
 gravel
 concrete
-statue of woman
-runway of airfield
+statue
+woman
+runway
+airfield
 van
 bus
-painted head of person
-mouth of person
-nose of person
+painted head
+person
+mouth
+person
+nose
+person
 people exercising
 brick walk
 laser cutting tool
 missiles
-undercarriage of fighter jet
-reflection of boat
+undercarriage
+fighter jet
+reflection
+boat
 building
 hut
 derelict pickup truck
-door of supercar
-jeans of man
+door
+supercar
+jeans
+man
 gravel
 pebbles
 toy antlers
 clothes hangers
 clothes shop interior
 retail box
-foot of woman
+foot
+woman
 woman reclining
-hair of woman
-torso of woman
-skin of woman
-eye of woman
-mouth of woman
-nose of woman
-neck of woman
+hair
+woman
+torso
+woman
+skin
+woman
+eye
+woman
+mouth
+woman
+nose
+woman
+neck
+woman
 woman kneeling
-wheel of truck
+wheel
+truck
 woman climbing
 woman standing
-propeller of aeroplane
-wing of aeroplane
-fuselage of aeroplane
-undercarriage of aeroplane
+propeller
+aeroplane
+wing
+aeroplane
+fuselage
+aeroplane
+undercarriage
+aeroplane
 woman riding bicycle
 foliage on building
 man standing holding
 coat on man
 jeans on man
-neck of man
-beard of man
-wheel of pushchair
+neck
+man
+beard
+man
+wheel
+pushchair
 motor
 engine
 glove on person
@@ -727,35 +859,43 @@ grass
 European woman resting lyingDown
 woman swimming underwater
 flipper on woman
-foot of tortoise
-shell of tortoise
-head of asian person
+foot
+tortoise
+shell
+tortoise
+head
+asian person
 Indian man riding
 hair
 wall
 building
 soil
 gravel
-handle of pliars
+handle
+pliars
 transparent baloon
 child in swimwear
 dry twisty pasta
 double bed
-leg of chair
+leg
+chair
 driveway
 parking space
 Polaroid camera
-head of woman smiling
+head
+woman smiling
 shelter
 roof
 roof
 wall
 bar
 pub
-wing of biplane
+wing
+biplane
 hat on man
 folded wooden chair
-wheel of toy car
+wheel
+toy car
 metal watering can
 spade
 garden tool
@@ -764,23 +904,31 @@ brickOrStone wall
 african man sitting eating
 plastic comb
 b
-seat of car
+seat
+car
 woman lyingOnFront
-basket of bicycle
+basket
+bicycle
 person riding bicycle
-cockpit of fighter jet
-wing of fighter jet
-air intake of fighter jet
-tail of fighter jet
+cockpit
+fighter jet
+wing
+fighter jet
+air intake
+fighter jet
+tail
+fighter jet
 sand
 dry soil
-head of diver
+head
+diver
 ripped jeans on woman
 gold bars
 dirty metal pipes
 stone staircase
 asian woman walking carrying picking
-dress of woman
+dress
+woman
 e
 monkey
 ape
@@ -789,16 +937,21 @@ electrical device
 box
 private jet
 European woman standing posing
-tail fin of fighter jet
-shadow of fighter jet
-head of ape
-hand of ape
+tail fin
+fighter jet
+shadow
+fighter jet
+head
+ape
+hand
+ape
 soil
 rocks
 african man standing waving smiling
 f
 man riding surfing
-wheel of pickup truck
+wheel
+pickup truck
 man photographing
 twigs
 fallen leaves
@@ -808,12 +961,14 @@ soil
 gravel
 confectionary
 sweets
-hand of woman
+hand
+woman
 paper
 card
 woman sitting
 reclining
-leg of person
+leg
+person
 woman leaning
 woman exercising
 woman painting
@@ -825,36 +980,53 @@ Chinese arch
 wooden plarform
 person riding motor scooter
 motorbike and rider
-pincer of crab
+pincer
+crab
 derelict TV
 derelict wooden house
-head of crocodile
-reflection of crocodile
-eye of crocodile
-mouth of crocodile
+head
+crocodile
+reflection
+crocodile
+eye
+crocodile
+mouth
+crocodile
 woman walking pushing
 woman lyingDown
 man lyingOnFront
 swimwear on woman
 suit trousers on man
 woman sunbathing
-skin of arm of woman
-teeth of woman
+skin
+arm
+woman
+teeth
+woman
 canal
 river
 man squatting crouching working
 stone archway
 girl sitting
 hole in derelict building
-picture of horse
-head of duck
-exhaust pipe of motorbike
-fuel tank of motorbike
-handlebars of motorbike
-seat of motorbike
-engine of motorbike
-brake disk of motorbike
-head of animal
+picture
+horse
+head
+duck
+exhaust pipe
+motorbike
+fuel tank
+motorbike
+handlebars
+motorbike
+seat
+motorbike
+engine
+motorbike
+brake disk
+motorbike
+head
+animal
 round table
 Indoor
 woman standing leaning forward
@@ -873,25 +1045,32 @@ metal pipes
 machinery
 man
 musical conductor
-reflection of woman
+reflection
+woman
 integrated circuit package
 old asian woman sitting
 person sitting riding
-wheel of motor scooter
+wheel
+motor scooter
 metal ruler
-block of wood
+block
+wood
 man sitting eating
 strategic bomber
 jet aircraft
 man standing gesturing
 camouflage trousers on man
 ear defenders on man
-cockpit of jet aircraft
+cockpit
+jet aircraft
 man climbing working
 female child walking
-foreleg of dog
-hindleg of dog
-tail of dog
+foreleg
+dog
+hindleg
+dog
+tail
+dog
 cooked sausages
 ff
 cocktail
@@ -912,7 +1091,8 @@ singlespeed city bike
 horses
 asian woman dancing
 off-road vehicle
-wheel of car
+wheel
+car
 asian woman leaning
 singlespeed bike
 derelict aircraft interior
@@ -920,36 +1100,47 @@ train passenger carriage
 chinook helicopter
 old asian man sitting reading
 European woman sitting holding guitar
-head of European woman
-roof of railway station
+head
+European woman
+roof
+railway station
 stone sculpture
 head
 stone
 rock
 ancient artefact
-pile of courgettes
-sack of courgettes
-sack of vegetables
+pile
+courgettes
+sack
+courgettes
+sack
+vegetables
 air conditioning pipe
 shelves
 mouth if woman
 z
-wheel of cannon
+wheel
+cannon
 bamboo frame
 rocks
 gravel
-foliage of tree
-barrel of cannon
-muzzle of cannon
+foliage
+tree
+barrel
+cannon
+muzzle
+cannon
 African man
-shelf of fridge
+shelf
+fridge
 plastic food boxes
 jars
 bottles
 seats
 bench
 ceiling
-roof of railway station
+roof
+railway station
 grass
 sand
 grass
@@ -957,15 +1148,19 @@ hillside
 parking space
 road
 Indian woman standing
-clothing of woman
+clothing
+woman
 tattoo on woman
 woman standing laughing
 head if woman laughing
 seat
 furniture
-lid of wheelie bin
-wheel of wheelie bin
-wheel of wheelbarrow
+lid
+wheelie bin
+wheel
+wheelie bin
+wheel
+wheelbarrow
 man sitting playing
 african man standing leanig
 psvement
@@ -984,13 +1179,20 @@ European woman walking
 chandelier
 ceiling light
 h
-box of popcorn
-picture of egg
-Overhead view of buildings
-overhead view of road
-half of wooden barrel
-hoof of horse
-collar of dog
+box
+popcorn
+picture
+egg
+Overhead view
+buildings
+overhead view
+road
+half
+wooden barrel
+hoof
+horse
+collar
+dog
 man playing guitar
 woman sitting playing keyboard
 man riding jumping
@@ -1013,7 +1215,8 @@ man holdingSmartphone wearingCoat
 donut
 confectionary
 sliced raw salmon
-handle of bag
+handle
+bag
 ab
 man sitting singing playingGuitar
  shop front
@@ -1025,18 +1228,22 @@ beak
 eye
 bird
 foiage
-backrest of chair
+backrest
+chair
 storm clouds
 woman sitting reading
 woman
 sitting
 leaning
 smiling
-pile of biscuits
-glass of milk
+pile
+biscuits
+glass
+milk
 man aiming shotgun
 firing range
-wall of tires
+wall
+tires
 mural on wall
 beach
 sand
@@ -1053,21 +1260,27 @@ balcony wall
 river
 pond
 dreadlocks
-hair of woman
+hair
+woman
 octopus
 seafood
 power drill
-head of frog
-eye of frog
+head
+frog
+eye
+frog
 yoga pants on woman
 person swimming diving underwater
 man reading
 man parachuting
 straw
 hay
-eye of chicken
-head of hedgehog
-eye of hedgehog
+eye
+chicken
+head
+hedgehog
+eye
+hedgehog
 tracksuit on woman
 chickens
 town
@@ -1078,7 +1291,8 @@ brocoli florets
 supermarket shelves
 retail
 supermarket interior
-handle of glass jar
+handle
+glass jar
 man ridingSkateboard standing
 bench
 sculpture
@@ -1088,7 +1302,8 @@ woman reclining drinkingCoffee wearingJeans lookingAtBook
 woman playingViolin standing
 motor trike
 man aiming holdingGun shooting
-reflection of narrowboat
+reflection
+narrowboat
 barrier
 kerbstone
 pushbuttons
@@ -1107,15 +1322,23 @@ machinery
 engine
 derelict buiding
 woman sitting holding skateboard
-wheel of skateboard
-head of fox
-wheel of excavator
-scoop of excavator
-arm of excavator
-skeleton of dinosaur
-head of dinosaur skeleton
+wheel
+skateboard
+head
+fox
+wheel
+excavator
+scoop
+excavator
+arm
+excavator
+skeleton
+dinosaur
+head
+dinosaur skeleton
 old man walking
-picture of duck
+picture
+duck
 man working
 pavement
 ground
@@ -1128,8 +1351,10 @@ woman dancing exercising
 acrobat
 structured light
 leather jacket on woman
-wheel of campervan
-head of chicken
+wheel
+campervan
+head
+chicken
 blonde woman sitting drinking
 vintage car engine
 derelict stone building
@@ -1141,7 +1366,8 @@ person ridingMotorbike
 person lyingDown reachingUp
 mountains
 snow
-foliage of trees
+foliage
+trees
 winter sport
 workmen
 man holdingShovel working
@@ -1149,7 +1375,8 @@ cap
 hat
 ag
 BMX bike
-reflection of flamingo
+reflection
+flamingo
 pinecone
 lilypads
 bird
@@ -1162,9 +1389,12 @@ biplane
 tiretracks
 woman carrying skateboard
 shoes on shelves
-pair of shoes
-picture of fish
-picture of flying fish
+pair
+shoes
+picture
+fish
+picture
+flying fish
 yachts
 shed
 garage
@@ -1186,30 +1416,41 @@ human
 riding
 motorbike helmet
 eye cat
-tongue of cat
-mouth of cat
-nose of cat
+tongue
+cat
+mouth
+cat
+nose
+cat
 rusty metal components
 wooden carriage
-wheel of carriage
+wheel
+carriage
 man standing pulling
 woman standing pulling
 man standing looking
 suit jacket on man
 formula one car
 helicopter interior
-model of building
+model
+building
 woman standing reaching
 asian woman looking holding standing
 soil
 fallen leaves
-jet engine of private jet
-head of monkey
-hand of monkey
+jet engine
+private jet
+head
+monkey
+hand
+monkey
 overcast sky
-picture of deer
-wheel of backhoe loadee
-castor wheel of wheeliebin
+picture
+deer
+wheel
+backhoe loadee
+castor wheel
+wheeliebin
 person leaningBack
 buildings
 houses
@@ -1240,7 +1481,8 @@ statue
 horse
 statue
 person
-tray of food
+tray
+food
 woman holding bag
 Volkswagen beetle
 man riding bicycle
@@ -1249,14 +1491,17 @@ woman sitting reclining
 child holding plastic bucket
 woman standing holding flowers
 soil path
-head of human skeleton
-hand of human skeleton
+head
+human skeleton
+hand
+human skeleton
 human skeleton
 person standing holding
 coat on person
 trousers on person
 battle tank
-face of asian woman
+face
+asian woman
 coat on woman
 statue
 sculpture
@@ -1265,23 +1510,30 @@ woman dancing stretching
 trousers on woman
 river
 sand
-drop handlebar of bicycle
-head of african man
+drop handlebar
+bicycle
+head
+african man
 leather jacket on man
 rocket engine
 mushroom cloud
 flames
 restaurant
 hotel
-statue of person sitting
+statue
+person sitting
 pavememt
 scarf on woman
-row of rocks
-cabin of backhoe loader
-wheel of backhoe loader
+row
+rocks
+cabin
+backhoe loader
+wheel
+backhoe loader
 woman smiling talkkngOnPhone
 suit jacket on woman
-arm of statue
+arm
+statue
 desk
 table
 antique clock
@@ -1308,8 +1560,10 @@ mountain
 snow
 fallen leaves
 grass
-handlebar of mountain bike
-head of teddy bear
+handlebar
+mountain bike
+head
+teddy bear
 lego technic
 trees
 hillside
@@ -1320,24 +1574,32 @@ wooden platform
 bridge
 man leaning forward working
 van engine
-bonnet of van
+bonnet
+van
 man sitting riding
 woman leaning forward
-muzzle of gun barrel
+muzzle
+gun barrel
 tables
 chairs
 chairs
 turtle swimming
-head of turtle
-shell of turtle
+head
+turtle
+shell
+turtle
 grass path
 suitcase
 luggage
 man skiiing
-head of dinosaur costume
-engine of jet airliner
-tail of jet airliner
-fuselage of jet airliner
+head
+dinosaur costume
+engine
+jet airliner
+tail
+jet airliner
+fuselage
+jet airliner
 metal tabletop
 woman sitting exercising wearingSportswear armsRaised
 giant tortoise
@@ -1394,30 +1656,45 @@ cat on chair
 baking tray
 jacket on woman
 woman singing
-hands of person
-head of old woman
-windscreen of camper van
-headlight of camper van
-bumper of camper van
-head of tortoise
-she’ll of tortoise
+hands
+person
+head
+old woman
+windscreen
+camper van
+headlight
+camper van
+bumper
+camper van
+head
+tortoise
+she’ll
+tortoise
 i
 electronic components
 trees
 metal frame
 tower
 grass embankment
-head of doll
-face of doll
-hair of doll
-eye of doll
-mouth of doll
-nose of doll
+head
+doll
+face
+doll
+hair
+doll
+eye
+doll
+mouth
+doll
+nose
+doll
 underwater
 tramline
 woodwork
-handle of saw
-blade of saw
+handle
+saw
+blade
+saw
 wooden fence
 asian woman working
 asian man eating
@@ -1432,12 +1709,16 @@ building
 beach
 wet sand
 wheeliebin
-head of rodent
-eye of rodent
+head
+rodent
+eye
+rodent
 derelict bench
 sportscar
-wheel of sportscar
-cabin of fighter jet
+wheel
+sportscar
+cabin
+fighter jet
 woman ridingBicycle
 yellowcab
 woman smiling sitting wearingDress
@@ -1490,45 +1771,63 @@ animal
 woman driving
 jacket
 coat
-wing of butterfly
-head of butterfly
+wing
+butterfly
+head
+butterfly
 man standing playing saxophone
 asian female child sitting eating
-hand of child
-head of asian female child
-eye of female child
-nose of female child
-mouth of female child
+hand
+child
+head
+asian female child
+eye
+female child
+nose
+female child
+mouth
+female child
 European woman squattting
 head if European woman
 sea
 beach
-reflection of fighter jet
+reflection
+fighter jet
 giant chessboard
 giant chesspiece
 I
-head of ox
+head
+ox
 owl flying
-head of owl
-eye of owl
-beak of owl
+head
+owl
+eye
+owl
+beak
+owl
 building
 structure
 ground
 surface
-wheel of bike
+wheel
+bike
 European woman sitting smiling holding
 african woman sitting posing
 african woman sitting smiling
 african man standing smiling
 European man singing
-head of European man singing
-head of European man
-head of african man smiling
+head
+European man singing
+head
+European man
+head
+african man smiling
 cardboard sign
-head of african woman smiling
+head
+african woman smiling
 gold statue
-head of European woman smiling
+head
+European woman smiling
 j
 person standing
 man standing reading
@@ -1549,9 +1848,11 @@ dog walking
 gravel
 dirt road
 bird flying
-head of kitten
+head
+kitten
 woman walking wearingDress
-wheel of trailer
+wheel
+trailer
 gg
 builds
 wheek
@@ -1637,10 +1938,13 @@ bushes
 grass
 derelict motor scooter
 man standing pointing shouting
-head of man shouting
+head
+man shouting
 packed parachute
-hand of man pointing
-hand of man holding
+hand
+man pointing
+hand
+man holding
 hut
 shed
 metal component
@@ -1653,16 +1957,19 @@ racetrack
 crowd
 man holdingSmartphone
 child holdingCamera
-arm of child
+arm
+child
 man wearingRobe
 tanker trailer
 man kneeling holdingOctopus
 wet towel
 floor tiles
-handle of bucket
+handle
+bucket
 rope
 handle
-leg of child
+leg
+child
 man sitting reading eating
 man standing holdingSmartphone
 woman standing embracing
@@ -1724,17 +2031,21 @@ woman
 pillars
 serving bowl
 gaffer tape
-wheel of racing car
+wheel
+racing car
 calipers
-handle of tool
+handle
+tool
 plastic boxes
 muscular man standing
 ox
 ox
 draught animal
-wheel of cart
+wheel
+cart
 child kneeling leaning forward
-head of giraffe
+head
+giraffe
 woman exercising wearingSportswear upsideDown
 Audi hatchback car
 skyscrapers
@@ -1762,7 +2073,8 @@ shorts on woman
 african woman standing posing
 European woman sitting reading
 European man standing holding
-head of african woman
+head
+african woman
 Indian woman sitting
 cooking pot
 plastic chair
@@ -1776,14 +2088,16 @@ trick
 mobile market stall
 person reclining
 dust cloud
-wheel of van
+wheel
+van
 racing bike
 time trial bike
 man cycling
 woman sitting usingLaptop typing
 woman sitting usingLaptop
 woman standing holding  reaching
-tire of wheel
+tire
+wheel
 European woman standing weaingDress
 tool
 artefact
@@ -1794,18 +2108,22 @@ man playingFlute
 quadbike
 compass stationery
 lemur
-pile of boxes
+pile
+boxes
 supermarket shelves
 soil
 grass
-undercarriage of light aircraft
-wing of light aircraft
+undercarriage
+light aircraft
+wing
+light aircraft
 woman holdingLongbow standing aiming
 man singing playingMusicalKeyboard
 man sitting playingGuitar
 man ridingBicycle jumping performingStunt
 man standing leaningBack looking
-lid of bin
+lid
+bin
  pan
 3 apples
  many people
@@ -1828,7 +2146,8 @@ grass
 rock
 groupofsheep
 1 dog
- group of sheep
+ group
+sheep
 5 apples
 just apples
 7 apples
@@ -1889,25 +2208,33 @@ fridge
 plastic bottle tops
 person
 sorting
-leg of person sitting
+leg
+person sitting
 railway station platform
 man standing wearingCoat
 woman holdingHandbag standing lookingOverShoulder
-hindleg of giraffe
-foreleg of giraffe
+hindleg
+giraffe
+foreleg
+giraffe
 asian man standing armRaised holdingObject
-deck of boat
+deck
+boat
 vintage  car
 walkway
 platform
-head of swan
+head
+swan
 man ridingMountainbike
 man and mountainbike
 gravel track
-skeleton of bird
-skull of bird
+skeleton
+bird
+skull
+bird
 man dancing
-wheel of tricycle
+wheel
+tricycle
 slug
 monkey sitting
 vintage train
@@ -1933,8 +2260,10 @@ person
 lyingOnSide
 hit
 biccle
-eye of manta ray
-head of lion
+eye
+manta ray
+head
+lion
 man sitting lookingUp shieldingEyes
 lumberjack shirt on man
 people playingSport
@@ -2025,7 +2354,8 @@ aircraft
 headlight
 armoured personal carrier
 child sitting swinging
-head of rhinocerous
+head
+rhinocerous
 man standing dancing
 cables
 wires
@@ -2072,9 +2402,11 @@ elephants
 measuring instrument
 calipers
 person drinking driving
-head of seal
+head
+seal
 man sitting weightLifting exercising
-head of mouse
+head
+mouse
 engine
 machinery
 undewater
@@ -2111,13 +2443,19 @@ man
 paratrooper
 soldier standing
 man skydiving
-ramp of aircraft
-headlight of supercar
-windscreen of supercar
+ramp
+aircraft
+headlight
+supercar
+windscreen
+supercar
 woman sitting posing leaningBack wearingDress
-arm of asian woman
-arm of asian man
-leg of asian man
+arm
+asian woman
+arm
+asian man
+leg
+asian man
 tree stump
 container
 machine
@@ -2144,15 +2482,20 @@ man sittingOnGround
 action camera
 car withHeadlightsOn
 man running playingAmericanFootball carryingBall
-leg of asian woman
-hair of asian woman
-skin of asian woman
+leg
+asian woman
+hair
+asian woman
+skin
+asian woman
 shorts on asian woman
 clothing on asian woman
-head of rabbit
+head
+rabbit
 rabbit sitting
 lion roaring
-mouth of lion
+mouth
+lion
 woman eating standing wearingHat wearingDress carryingHandbag
 log
 tree trunk
@@ -2179,7 +2522,8 @@ asian woman sitting
 woman sittingOnGround
 road
 carpark
-head of goat
+head
+goat
 woman standing holdingUmbrella carryingBag
 windscreen
 car window
@@ -2203,7 +2547,8 @@ man ridingBicycle
 person
 firefighter
 sellotape dispenser
-roll of sellotape
+roll
+sellotape
 German flag
 lightning cable
 woman sittingOnStep
@@ -2222,21 +2567,26 @@ animal
 root
 tree
 art
-pile of apples
+pile
+apples
 cr
 african woman sitting holding
 parked luxury car
 Mercedes openTop luxury car
 Mercedes badge
-foreleg of cow
-hindleg of cow
+foreleg
+cow
+hindleg
+cow
 man standing holdingBall wearingSportswear
 old man standing armRaised wearingRobe wearingHat
 person hanging flying falling
-arm rest of seat
+arm rest
+seat
 interior
 jet airliner
-headrest of seat
+headrest
+seat
 woman wearingDress sitting smiling
 metal ornamemt
 metal figurine
@@ -2268,10 +2618,13 @@ person ridingBike
 wooden post
 man leaningForward servingFood
 architecturr
-hull of ship
+hull
+ship
 passenger aeroplane
-picture of bear
-picture of head
+picture
+bear
+picture
+head
 seal animal
 flipper
 tail fin
@@ -2292,16 +2645,25 @@ pumpmkin
 halloween
 woman jumping
 woman standing holding leaningBack
-arm of woman 
-leg of woman 
-eye of woman 
-nose of woman 
-mouth of woman 
-hair of woman 
-opening of bin
+arm
+woman 
+leg
+woman 
+eye
+woman 
+nose
+woman 
+mouth
+woman 
+hair
+woman 
+opening
+bin
 woman wearingCoat standing lookingSideways leaningOnWall
-foreleg of horse
-hindleg of horse
+foreleg
+horse
+hindleg
+horse
 lunar lander
 spacecraft
 photoshopped
@@ -2337,7 +2699,8 @@ hat bale
 vehicles
 man carryingBicycle wearingSportswear wearingHelmet running
 cyclocross
-picture of mouth
+picture
+mouth
 fuselage
 woman lyingInBed
 canal
@@ -2355,14 +2718,18 @@ watersports
 waste container
 skip
 man walking standing standingOnFootball
-leg of man 
+leg
+man 
 man sitting writing
 man sitting usingLaptop
 wooden tabletop 
-screen of laptop
-keyboard of laptop 
+screen
+laptop
+keyboard
+laptop 
 man working holdingWeldingTorch wearingHat
-head of man 
+head
+man 
 asian man wearingSunglasses
 man standing lookingSideways
 man preparingFood weatingApron holdingLadle
@@ -2400,7 +2767,8 @@ man standing playingGuitar
 woman standing playingGuitar
 man standing readingBook carryingRucksack wearingHat
 african man walking carryingLaptop
-window of car
+window
+car
 qw
 aluminium beverage cans
 greenhouse interior
@@ -2419,12 +2787,15 @@ palm tree
 man sitting headInHands lookingDown
 man singing holdingMicrophone standing
 man carryingBasketOnHead
-bag of bread
-handlebar of bicycle
+bag
+bread
+handlebar
+bicycle
 man wearingSwimwear
 woman wearingSwimwear
 thumb
-armrest of seat
+armrest
+seat
 suit (clothing)
 woman standing working painting
 paving stone
@@ -2448,10 +2819,14 @@ asian man standing
 man standing swimming
 man sitting playingPiano
 man standing singing playingGuitar
-stack of plasticBox
-frontFoot of lizard
-foot of squirrel
-hand of squirrel
+stack
+plasticBox
+frontFoot
+lizard
+foot
+squirrel
+hand
+squirrel
 liquid paint
 bristles
 barrier
@@ -2514,12 +2889,18 @@ sports car
 Porsche 911
 man holdingIceCreamCone
 trainingShoe
-hub of wheel
-trunk of elephant
-tusk of elephant
-ear of elephant
-foreleg of elephant
-hindleg of elephant
+hub
+wheel
+trunk
+elephant
+tusk
+elephant
+ear
+elephant
+foreleg
+elephant
+hindleg
+elephant
 plastic bottles
 vehicle
 aeroplane flying
@@ -2552,7 +2933,8 @@ wind instrument
 fly
 torch
 statue
-statue of liberty
+statue
+liberty
 squash
 pumpkin
 moth
@@ -2589,11 +2971,13 @@ timepeice
 woman sitting working
 man jumping holdingSword swordFighting
 man swordFighting holdingSword
-head of old man
+head
+old man
 man ridingMotorbike jumping
 motorbike jumping
 man jumping
-reflection of person
+reflection
+person
 wooden pallets
 skin
 computer computer mouse
@@ -2630,7 +3014,8 @@ clothes line
 towers
 hexagonal grid
 man riding bike
-wheel of mountainbike
+wheel
+mountainbike
 man standing pointing
 glass beer bottle
 man ridingHorse
@@ -2666,8 +3051,10 @@ shirt
 woman standing pointing
 person ridingSkateboard
 child squatting holdingDog
-hand of asian man
-backrest of seat
+hand
+asian man
+backrest
+seat
 brain
 woman sitting resting smiling
 wooden shutter
@@ -2697,7 +3084,8 @@ paraglider
 man ridingSkateboard
 man holdingFruit
 man snowboarding jumping
-head of deer
+head
+deer
 asian man sittingOnFloor
 deck chair
 archway
@@ -2739,7 +3127,8 @@ castle
 stately home
 Sidney opera house
 sails
-turret of castle
+turret
+castle
 dog
 running
 trail
@@ -2783,10 +3172,13 @@ woman standing leaning smiling
 garage interior
 park bencg
 man sitting sleeping
-wheel of tractor
+wheel
+tractor
 soldiers
-reflection of sky
-reflection of trees
+reflection
+sky
+reflection
+trees
 paven
 wood
 luxuryCar
@@ -2831,7 +3223,8 @@ person jogging
 glass cups
 aerial work platform
 man standing looking down holding
-head of man yawning
+head
+man yawning
 zebra crossing
 zz
 oo
@@ -2883,7 +3276,8 @@ shelf
 shop
 fence
 barrier
-seat of swing
+seat
+swing
 man standing holdingRifle
 tiger cub
 woman wearingDress posing sittingOnGround wearingHat
@@ -2989,16 +3383,20 @@ plane tool
 nutcracker
 man
 lyingDown
-head of man smiling
+head
+man smiling
 woman lyingOnBack
 woman standing wearingDress lookingSideways
-handle of magnifyingGlass
-lens of magnifyingGlass
+handle
+magnifyingGlass
+lens
+magnifyingGlass
 lighthouse
 dinosaur
 sculpture
 statue
-head of dinosaur
+head
+dinosaur
 metal fence
 hungary
 budapest
@@ -3111,7 +3509,8 @@ grass
 river bank
 jeans on person
 paved area
-head of parrot
+head
+parrot
 man standing playingGolf swingingGolfClub
 woman standing smiling posing
 spider web
@@ -3155,7 +3554,8 @@ buildingsriver
 dandylion
 contrailbook cover
 archwa
-windscreen of jeep
+windscreen
+jeep
 man sitting leaning back
 wet dog walking
 woman lyingOnFront smiling inBed
@@ -3312,8 +3712,10 @@ hand
 soldier
 muscular african man standing
 American football ball
-wing of bird
-tail of bird
+wing
+bird
+tail
+bird
 derelict machinery
 woman wearingBikini standingInSea
 glass dome
@@ -3332,12 +3734,16 @@ camera
 santa claus hat
 record cover
 car headlights
-skin of head of woman
+skin
+head
+woman
 jacket on person
 woman wearingDress
-visor of helmet
+visor
+helmet
 racing helmet
-roof of racing car
+roof
+racing car
 motorscooter
 mountain bike
 bird
@@ -3400,7 +3806,8 @@ forklift
 wheel
 forklift
 street litter bin
-wheel of bus
+wheel
+bus
 soup
 stew
 man ridingJetski
@@ -3431,12 +3838,14 @@ silhouette
 dinosaur
 girraffe
 furnace
-bottle of detergent
+bottle
+detergent
 woman stretching exercising standing
 old person walking
 poster
 picture
-reflection of man
+reflection
+man
 man walking pushing
 woman standing holdingCup
 pushchair
@@ -3460,12 +3869,17 @@ flattened carboard box
 bags
 ashpalt
 dumbells
-leg of astronaut
-arm of astronaut
-helmet of astronaut
+leg
+astronaut
+arm
+astronaut
+helmet
+astronaut
 narrowboat
-picture of animal
-picture of eye
+picture
+animal
+picture
+eye
 man kneeling drawing doingArtwork
 bike
 picture
@@ -3558,10 +3972,13 @@ carramp
 surboard
 head if woman smiling
 fur
-visor of helmet of astronaut
+visor
+helmet
+astronaut
 glove on astronaut
 man exercising swingingKettlebell holdingKettlebell
-engine of car
+engine
+car
 woman lyingOnBack inBathtub
 hear sink
 motorboat
@@ -3637,10 +4054,14 @@ crane
 metal figurine
 angel
 cherub
-wheel of luxury car
-head of figurine
-headlight of jeep
-wing mirror of jeep
+wheel
+luxury car
+head
+figurine
+headlight
+jeep
+wing mirror
+jeep
 person walking wearingCoat
 mountain
 hill
@@ -3664,11 +4085,13 @@ ridingMotorbike
 footware
 man in wetsuit carrying surfboard
 wetsuit on man
-hand of african woman
+hand
+african woman
 metal railing
 fence
 bird perched
-chunk of chocolate
+chunk
+chocolate
 chocolate fragments
 crumbs
 person standing leaning
@@ -3699,7 +4122,8 @@ swiming pool
 breadcrumb coated food
 mayonaise
 buish
-shell of snail
+shell
+snail
 silhouette
 person jumping
 dog jumping
@@ -3731,13 +4155,16 @@ rover
 steps
 pavement
 raindrops
-head of statue of person
+head
+statue
+person
 monument
 man standing wearingApron preparingDrink
 man wearingApron
 wooden tabletop
 woman lyingBack sitting
-reflection of buildings
+reflection
+buildings
 American football
 aluminum foil food tray
 people
@@ -3798,7 +4225,8 @@ geographical globe
 ornament
 metal cup
 pot
-head of cat sleeping
+head
+cat sleeping
 n
 woman sittingOnFloor
 head
@@ -3880,7 +4308,8 @@ woman
 box
 suitcase
 man in medievalArmour
-wheel of mountainBike
+wheel
+mountainBike
 figurine
 woman
 figurine
@@ -3925,7 +4354,8 @@ building
 wall
 path
 picked flowers
-bunch of flowers
+bunch
+flowers
 bontany
 purple flower
 raindrop
@@ -3975,7 +4405,8 @@ sachet
 nibbles
 european woman sitting
 european man sitting
-head of mannequin
+head
+mannequin
 child walking
 person cooking
 hand
@@ -4016,20 +4447,27 @@ woman sitting reclining wearingSwimsuit wearingHat lookingUp
 wicker basket
 chair
 blanket
-cabin of tractor
+cabin
+tractor
 african woman standing posing wearingDress wearingCoat holdingRailing raisingHand
 metal railing
-wooden seat of bench
-leg of frog
-foreleg of frog
+wooden seat
+bench
+leg
+frog
+foreleg
+frog
 woman walkingDownSteps carryingBagOverShoulder
 riverBank
 silt
 gravel
 sand
-headlight of pickup truck
-windscreen of pickup truck
-cabin of pickup truck
+headlight
+pickup truck
+windscreen
+pickup truck
+cabin
+pickup truck
 hand
 t shirt on person
 sea slug
@@ -4077,8 +4515,10 @@ motorbikes
 supercar
 racingCar
 audi
-cabin of boat
-hull of boat
+cabin
+boat
+hull
+boat
 tiger swimming
 river
 swamp
@@ -4106,15 +4546,22 @@ box
 man
 standing
 plastic sack
-arm of person 
-roof of bus shelter
-picture of head of man
-head of european man
-head of european woman
+arm
+person 
+roof
+bus shelter
+picture
+head
+man
+head
+european man
+head
+european woman
 arm on woman
 woman sittingCrossLegged typing
 old woman sitting wearingCoat
-wheel of off road vehicle
+wheel
+off road vehicle
 apron on person
 general purpose machine gun
 soldier aiming lyingProne
@@ -4133,7 +4580,8 @@ woman standing leaningForward
 guitatr
 campervan
 aa
-head of tiger cub
+head
+tiger cub
 waterslide
 woman
 playingViolin
@@ -4149,10 +4597,14 @@ small box
 person standingWorking
 person crouchingWorking
 girl leaningBack standing 
-face of girl
-hand of girl
-hair of girl
-arm of girl
+face
+girl
+hand
+girl
+hair
+girl
+arm
+girl
 asian temple
 yy
 metal tap
@@ -4191,7 +4643,8 @@ metal hut
 keep
 spider plant
 blue lflower
-shadow of car
+shadow
+car
 arm on man
 child sittingOnFloor
 child
@@ -4224,7 +4677,8 @@ holdingBasket
 working
 telephone keypad
 sleeping fox
-head of cow
+head
+cow
 asian woman walking holdingCamera wearingSkirt wearingHat
 asian woman sitting reclining wearingBathrobe
 garden tool
@@ -4235,16 +4689,21 @@ wearingSportswear
 playingVolleyball
 action camera
 man working holding powerTool
-eye of dog
-mouth of dog
-nose of dog
-ear of dog
+eye
+dog
+mouth
+dog
+nose
+dog
+ear
+dog
 multistorey car park interior
 mist
 sky
 denim jacket on man
 open top classic sports car
-license plate of car
+license plate
+car
 machinery
 engine
 gearwheel
@@ -4283,7 +4742,8 @@ forest
 hilside
 racing motorbike
 gift tag
-jar of chocolateSpread
+jar
+chocolateSpread
 loading bay
 driveway
 woman sitting working wearingHeadscarf holdingTray
@@ -4295,10 +4755,12 @@ woman
 cyclist
 cycling helmet
 bicycle drop handlebar
-wing of jet airliner
+wing
+jet airliner
 Indian man reaching holding
 person ridingMotorbikeAsPassenger
-backrest of park bench
+backrest
+park bench
 tray
 child drinkingWaterFromTap
 blackbird SR71
@@ -4318,7 +4780,8 @@ gift box
 Christmas tree
 multistorey car park roof
 man piloting
-cabin of aircraft
+cabin
+aircraft
 open top luxury car
 man welding crouching holdingWeldingTorch holdingWeldingMask
 bookshelf
@@ -4327,7 +4790,8 @@ muscular man exercising
 Olympic Rings
 exercise equipment
 metal bridge
-tail light of car
+tail light
+car
 cycle lane
 tower
 building
@@ -4351,7 +4815,8 @@ foot
 wpoman
 old man standing leaning
 tabletop
-head of man running
+head
+man running
 portable crt television
 vintage telephone handset
 plant
@@ -4391,7 +4856,8 @@ train interior
 plastic packaging
 bag
 rice
-bag of rice
+bag
+rice
 restaurant
 dining room
 paper tissue
@@ -4424,10 +4890,13 @@ wrapper
 paper wrapper
 silver foil
 aluminium
-trailer of truck
-handle of door
+trailer
+truck
+handle
+door
 motor vehicle
-wheel of vehicle
+wheel
+vehicle
 man wearingJacket standing playingGuitar
 deck chairs
 flares
@@ -4480,16 +4949,21 @@ fruit
 person
 ridingCamel
 bsaket
-keyboard of laptop
-armrest of chair
-tongue of dog
-reflection of mountain
+keyboard
+laptop
+armrest
+chair
+tongue
+dog
+reflection
+mountain
 Asian woman standing leaning
 asian woman standing leaning reaching
 apartment buildings
 box
 radio
-cabin of aeroplane
+cabin
+aeroplane
 chessboard
 boardgame
 forklift
@@ -4507,9 +4981,12 @@ wearingCoat
 colluseum
 african man sitting wearing suit
 cat sitting
-eye of cat
-ear of cat
-wheel of SUV
+eye
+cat
+ear
+cat
+wheel
+SUV
 foliage
 grass
 gravel
@@ -4608,13 +5085,15 @@ old telephone
 vintage telephone
 p
 wooden fencepost
-keyboard of typewriter
+keyboard
+typewriter
 woman standing holding camera
 city
 buildings
 teenage male person ridingBike
 space capsule
-head of crow
+head
+crow
 Eiffel Tower
 person cleaning
 hull
@@ -4628,7 +5107,8 @@ surgical gown
 lily pads
 pond
 VolkswagenBeetle car
-top of stone wall
+top
+stone wall
 wild mushrooms
 derelict building
 ruins
@@ -4688,8 +5168,10 @@ toy
 house
 saucepan
 woman standing holding working
-handlebars of racing bike
-frame of racing bike
+handlebars
+racing bike
+frame
+racing bike
 central reservation
 pavement
 vintage supercomputer
@@ -4726,17 +5208,20 @@ cat
 drinking
 wooden fence
 wooden gate
-windscreen of truck
+windscreen
+truck
 box
 basket
-paw of cat
+paw
+cat
 woman
 standing.pavement
 people
 soldiers
 rifle
 luxury saloon car
-head of alligator
+head
+alligator
 rally car
 tail lights
 eindow
@@ -4745,8 +5230,10 @@ derelict fishing boat
 bamboo poles
 beach
 mud
-hull of derelict boat
-cabin of derelict boat
+hull
+derelict boat
+cabin
+derelict boat
 electric guitar
 woman standing carryingBag lookingUp
 cable car
@@ -4827,7 +5314,8 @@ interior
 derelict building
 rope
 handle
-ball of wool
+ball
+wool
 knitting needle
 plastic waste
 rubbish tip
@@ -4847,22 +5335,34 @@ woman standing posing wearingHat
 baloons
 picture
 hat
-head of leopard
-paw of leopard
+head
+leopard
+paw
+leopard
 plastic sieve bowl
 branch
-beak of parrot
-foot of parrot
-eye of parrot
-dashboard of car
-steering wheel of car
-steering wheel of sportscar
+beak
+parrot
+foot
+parrot
+eye
+parrot
+dashboard
+car
+steering wheel
+car
+steering wheel
+sportscar
 open top sportscar
-head of cat
-head of squirrel
+head
+cat
+head
+squirrel
 translucent plate
-head of sculpture
-sculpture of person
+head
+sculpture
+sculpture
+person
 toy sportscar
 net
 woman
@@ -4914,7 +5414,8 @@ marrow
 twisted tree
 soil
 straw
-tube of paint
+tube
+paint
 glass  bottle
 fean
 industrial structure
@@ -4950,21 +5451,29 @@ weight training
 renegade rows
 man riding skateboarding
 skatepark
-eye of cow
-nose of cow
-ear of cow
-horn of cow
-head of snake
-eye of snake
+eye
+cow
+nose
+cow
+ear
+cow
+horn
+cow
+head
+snake
+eye
+snake
 handle
 girl
 woman
-reflection of alligator
+reflection
+alligator
 American football player
 constuction machine
 girl sittingOnGround
 washing machines
-door of washing machine
+door
+washing machine
 cooked meat
 roast chicken
 cc
@@ -4983,11 +5492,14 @@ woman
 sittig
 fire truck
 fireEngine
-cabin of fire truck
+cabin
+fire truck
 electric power cable
-handle of steam iron
+handle
+steam iron
 asian woman holding fan
-hand of asian woman
+hand
+asian woman
 paper fan
 woman standing leaning posing
 person wearingGown
@@ -5012,13 +5524,15 @@ figurine
 stadium
 crowd
 wooden park bench
-paw of dog
+paw
+dog
 coat
 hoodie
 glass beer bottles
 kettle
 jug
-pile of sacks
+pile
+sacks
 man sitting drinking
 rollercoaster
 upside down head
@@ -5105,7 +5619,8 @@ plant
 seashells
 wine bottle
 European woman holdingLeaves wearingDress
-bunch of dryLeaves
+bunch
+dryLeaves
 wet cobblestone road
 pancake
 plastic shopping bag
@@ -5133,7 +5648,8 @@ icce cream
 wafer (food)
 jeep
 off road vehicle
-wheel of jeep
+wheel
+jeep
 woman walking wearing swimsuit
 rubber ring
 flotation device
@@ -5166,13 +5682,15 @@ sand
 person
 pouring
 dessery
-head of man laughing
+head
+man laughing
 man standing laughing armsFolded
 child
 baby
 woman holding child
 girl lyingDown
-skull of animal
+skull
+animal
 people running
 icicles
 boy
@@ -5189,8 +5707,10 @@ playingMusic
 person
 ridingHorse
 man hiking
-bowl of salad
-slice of cheese
+bowl
+salad
+slice
+cheese
 Audi badge
 rocks
 sand
@@ -5422,7 +5942,8 @@ table
 power cable
 stone wall
 armchair
-chest of drawers
+chest
+drawers
 lampshade
 pillar
 desk
@@ -5459,7 +5980,8 @@ path
 utility pole
 motorbike
 condiment dish
-face of person
+face
+person
 fire
 sandal
 woman
@@ -5494,7 +6016,8 @@ chilli pepper
 scissors
 flower
 adhesive tape
-ball of string
+ball
+string
 ribbon
 pruner
 umbrella
@@ -5635,9 +6158,11 @@ pannier
 desk lamp
 picture
 castor wheel
-picture of woman
+picture
+woman
 merry go round
-glass of water
+glass
+water
 slipper
 litter_bin
 car_park_entrance
@@ -5662,7 +6187,8 @@ stroller
 wicker basket
 strawberry
 central reservation
-door of building
+door
+building
 asphalt
 mural
 lantern
@@ -5673,7 +6199,8 @@ footbridge
 yellow cab
 speakers
 midi controller
-roof of building
+roof
+building
 moniotor
 backhoe loader
 mini excavator
@@ -5709,7 +6236,8 @@ bicycle basket
 bicycle handlebars
 Plate (dishware)
 bicycle parking
-eye of person
+eye
+person
 cardboard box
 tiles
 child
@@ -5718,14 +6246,17 @@ graphics tablet
 bed
 foot
 Ring (jewellery)
-wheel of bicycle
+wheel
+bicycle
 fork lift
 caterpillar tracks
 chillies
 beans
-foot of person
+foot
+person
 necklace
-head of woman
+head
+woman
 chain barrier
 mast
 low stone wall
@@ -5740,7 +6271,8 @@ cosmetics
 perfume bottle
 no entry  sign
 carpet
-head of person
+head
+person
 concrete wall
 toy dog
 shelter
@@ -5752,7 +6284,8 @@ courgette
 spaghetti
 wine
 grinder
-bottle of olive oil
+bottle
+olive oil
 bell pepper
 window blinds
 teacup
@@ -5764,12 +6297,14 @@ remote control handset
 fireplace
 skate park
 skateboard
-hand of person
+hand
+person
 olympic rings
 fan
 dollar bills
 foilage
-headlight of car
+headlight
+car
 wrist band
 zipper
 notebook
@@ -5792,14 +6327,16 @@ yellowcab
 tv
 tap
 baby
-head of baby
+head
+baby
 roadworks sign
 moss
 solar panel
 serviette
 vine
 chicken
-window of building
+window
+building
 usb cable
 bicycle lock
 parachute
@@ -5813,7 +6350,8 @@ contrail
 selfie stick
 asparagus
 tray
-head of man
+head
+man
 mobile phone
 clip board
 cloth
@@ -5821,7 +6359,8 @@ table  fork
 dry leaves
 doily
 belt
-slice of meat
+slice
+meat
 hair clippers
 shelf
 machine tool
@@ -5831,7 +6370,8 @@ paint brush
 wooden board
 workbench
 hard hat
-plank of wood
+plank
+wood
 hood
 truck
 cobblestone 
@@ -5923,24 +6463,28 @@ frisbee
 gravestone
 jet ski
 drain cover
-foot  of person
+foot 
+person
 gun
 cigarette
 zebra crossing
 portacabin
-head of dog
+head
+dog
 water spray
 chalkboard
 roof
 avocado
 blanket
 mitten
-branches of tree
+branches
+tree
 power brick
 bean bag
 toy
 water cress
-slice of bread
+slice
+bread
 grated cheese
 bread rolls
 picnic table
@@ -5951,7 +6495,8 @@ sketchbook
 log
 earphones
 jacket
-bottle of wine
+bottle
+wine
 cultivated crop
 gym equipment
 elbow
@@ -5994,7 +6539,8 @@ christmass tree
 wrapped present
 camera lens
 cartoon rabbit ears
-slice of bacon
+slice
+bacon
 sand bag
 cutlery
 wooden floor
@@ -6623,7 +7169,8 @@ roof
 house
 wheel
 truck
-slice of pizza
+slice
+pizza
  cup
 bark
 wood
@@ -6782,7 +7329,8 @@ saucepan lid
  tie
 truck
 van
-flock of birds
+flock
+birds
 electric switch
 night sky
 blue sky
@@ -6986,7 +7534,8 @@ white coat
 daisy
 mast
 ship
- glass of water
+ glass
+water
  sports car
  stadium
 wet sand
@@ -7022,7 +7571,8 @@ cat in grass
  knee
 woman
  traffic island
- slice of cake
+ slice
+cake
  blueberry
 sliced nuts
  smartphone in hand
@@ -7268,7 +7818,8 @@ dog)
 object in mouth
 dog
 table on grass
-((glass of water) on table)
+((glass
+water) on table)
 statue
 head
 statue
@@ -8043,7 +8594,8 @@ asphalt
 path
 moss
 asphalt
-block of flats
+block
+flats
 park
 womna
 tailtail light
@@ -9051,7 +9603,8 @@ terminal building
 pipes
 reflection
 vegetation
-body of water
+body
+water
 stroller
 pushchair
 1  person
@@ -9885,13 +10438,15 @@ stir fry
 pancake
 smoothie
 food on table
-bowl of cereal
+bowl
+cereal
 muesli
 messy table
 wooden house with garden
 wooden steps
 time-lapse road at night
-aerial view of city
+aerial view
+city
 macro photo
 woman in sportswear
 flexibility
@@ -9902,7 +10457,8 @@ distant forest
 curtains
 head
 lion
-stack of wooden pallets
+stack
+wooden pallets
 wooden church
 crocodile
 alligator
@@ -9975,7 +10531,8 @@ mountains
 hills
 fruit bowl
 urban
-pile of rocks
+pile
+rocks
 distant city
 cork
 public transport
@@ -10100,7 +10657,8 @@ aircraft interior
 chestnut
 wooden picnic table
 religion
-slice of cake
+slice
+cake
 dessert
 ranch
 coyboy hat
@@ -10115,7 +10673,8 @@ car wheel
 central reservatio
 sliced grapefruit
 airier photo
-bird of prey
+bird
+prey
 pier
 rope brige
 bulldog
@@ -10825,7 +11384,8 @@ game controller
 ~animal
 band
 painted wooden surface
-leg of stool
+leg
+stool
 ~vehicle
 coastal wall
 plastic fork
@@ -10851,7 +11411,8 @@ neck
 giraffe
 gravel
 concrete
-pile of dirt
+pile
+dirt
 gravel
 tank (military vehicle)
 grendate launcher
@@ -10974,7 +11535,8 @@ head
 solider
 sculpture
 statue
-box of chocolates
+box
+chocolates
 mountain
 valley
 ice cream
@@ -11006,8 +11568,10 @@ ball (soccer)
 sportswear
 aerialphoto
 goliage
-tail boom of helicopter
-wing mirror of car
+tail boom
+helicopter
+wing mirror
+car
 sack
 sandbag
 distant landscape
@@ -11399,7 +11963,8 @@ baseball bat
 surfing
 waves
 wedding
-bouquet of flowers
+bouquet
+flowers
 food
 bird
 head
@@ -11469,7 +12034,8 @@ wing mirror
 SUV
 exhaust pipe
 SUV
-pile of fruit
+pile
+fruit
 roof
 church
 hardtail mountain bike
@@ -11504,7 +12070,8 @@ snowman
 giftbox
 stone steps
 brick house
-roll of tape
+roll
+tape
 marker pen
 eraser
 golf course
@@ -11674,7 +12241,8 @@ globe
 earth
 mosquito
 ice cubes
-row of trees
+row
+trees
 head
 wolf
 wolf
@@ -11710,7 +12278,8 @@ shop window
 wooden mallet
 handle
 mallet
-clump of grass
+clump
+grass
 tentacle
 octopus
 chopped wood
@@ -11861,7 +12430,8 @@ standing person
 walking person
 formalleather jacket
 lobster
-pile of books
+pile
+books
 toy horse
 toy tiger
 toy rhinoceros
@@ -12084,7 +12654,8 @@ beverage can
 wheel
 bin
 parked motorbike
-pile of bowls
+pile
+bowls
 pavement tiles
 arch
 rock
@@ -12560,7 +13131,8 @@ passenger cart
 fitnes
 rooftop
 tree trunnk
-stack of books
+stack
+books
 carving
 stonework
 spare tire
@@ -12871,8 +13443,10 @@ gravel
 dry mud
 cooked rice
 caserole
-stack of pancakes
-pile of pancakes
+stack
+pancakes
+pile
+pancakes
 snow
 ground
 twinstick joypad
@@ -13110,7 +13684,8 @@ monumnt
 poolsidechair
 motorway sign
 ~door
-herd of elephants
+herd
+elephants
 savanna
 vegetaation
 lid
@@ -13213,7 +13788,8 @@ metal teapot
 condiment jar
 cooked vegetables
 sweet and sour source
-closeup of plate
+closeup
+plate
 potatoes
 sliced cooked potatoes
 closeup
@@ -13249,7 +13825,8 @@ teeth
 woman
 face
 woman
-leaning tower of piza
+leaning tower
+piza
 boarding ramp
 bridge
 car park
@@ -13266,7 +13843,8 @@ plastic beacker
 plastic sports water bottle
 tin opener
 cooking oil
-packet of food
+packet
+food
 duct tape
 athlete
 wire
@@ -13330,7 +13908,8 @@ clouseup
 flower
 cloth
 canvas
-picture of flower
+picture
+flower
 open window
 [flowers]in[bag]
 price sign card
@@ -13393,7 +13972,8 @@ car
 coas
 lettuce
 sliced carrot
-[[bowl] of [berries]]
+[[bowl]
+[berries]]
 car park ticket machine
 information sign
 kiowifruit
@@ -13433,7 +14013,8 @@ aurora borealis
 northern lights
 soil
 earth
-picture of person
+picture
+person
 mural
 person
 firework display
@@ -13982,13 +14563,15 @@ glasshand
 squirrel
 head
 iguana
-jug of water
+jug
+water
 empty glass
 running man
 running shoe
 painting
 person
-picture of musical instrument
+picture
+musical instrument
 picture
 musical instrument
 picture
@@ -14026,7 +14609,8 @@ pale yellow flower
 biro pen
 rubber eraser
 counter
-roll of film
+roll
+film
 film roll
 surfer
 person
@@ -14203,7 +14787,8 @@ cobblestrone
 pilot
 fried potato
 glass bopwl
-glass of drink
+glass
+drink
 refreshments
 hitchhiker
 cooked gfood
@@ -14225,7 +14810,8 @@ tortoise
 algae
 mist
 clouds
-glass of drinnk
+glass
+drinnk
 field
 gardesns
 garden
@@ -14283,7 +14869,8 @@ dasiy
 raspberryh
 caramel custard
 tool belt
-leaning tower of pisa
+leaning tower
+pisa
 headrest
 seat
 berries
@@ -14344,7 +14931,8 @@ soil
 gravel
 stone
 americal football
-interior of jet airliner
+interior
+jet airliner
 overhead luggage compartment
 clearsky
 street.constructionsite
@@ -14428,8 +15016,10 @@ stone paving
 slip road
 car steering wheel
 pudding
-box of berries
-bag of oranges
+box
+berries
+bag
+oranges
 relfection
 building
 snow
@@ -14480,7 +15070,8 @@ sly
 plum tomato
 flower
 bush
-pile of rubble
+pile
+rubble
 subeam
 woodenspatula
 animal drinking water
@@ -14742,7 +15333,8 @@ dry rice
 grain
 able
 price list
-point of sale
+point
+sale
 dispenser
 container
 tre
@@ -14791,7 +15383,8 @@ subway statoin
 station platform
 row
 trees
-rw of trees
+rw
+trees
 certificate
 frame
 certificate
@@ -14989,7 +15582,8 @@ egg holder
 margarine
 box
 bread loaf
-loaf of bread
+loaf
+bread
 haedphones
 wig
 novelty
@@ -15145,7 +15739,8 @@ format
 sluice
 sluice gate
 palte
-point of sale sign
+point
+sale sign
 cabin
 capsule
 shorts (clothing)
@@ -15202,8 +15797,10 @@ smartphonme
 organic surface
 silhoette
 man
-pile of eggs
-stack of eggbox
+pile
+eggs
+stack
+eggbox
 wooden barm
 lecturn
 wooden folding seat
@@ -15462,7 +16059,8 @@ motorshow
 builidng
 loudspeaker
 large tv screen
-goodwood festival of speed
+goodwood festival
+speed
 remote control car
 driverless racing car
 rallycar
@@ -15488,7 +16086,8 @@ caterham
 caterham cars
 vintage car
 classic car
-stack of biscuits
+stack
+biscuits
 crumbled
 biscuit
 sink
@@ -15500,7 +16099,8 @@ woman
 cutting
 cabbage
 spinach
-sliced of bread
+sliced
+bread
 bowl
 cereal
 inflatable text
@@ -15517,7 +16117,8 @@ plastic bopx
 japanese  food
 splash
 water
-stack of plates
+stack
+plates
 tongsmeat
 vintage racing car
 vintage landspeed record car
@@ -15631,7 +16232,8 @@ grass seeds
 dirty surface
 cabin
 yacht
-slice of quiche
+slice
+quiche
 runnig track
 athletics event
 parade
@@ -15916,7 +16518,8 @@ eyepiece
 person
 reading
 reading
-tuft of grass
+tuft
+grass
 bookk
 woman
 sitting
@@ -16705,7 +17308,8 @@ sportswear
 sitting
 basketall court
 knitting
-all of wool
+all
+wool
 woman
 old
 hand
@@ -16768,8 +17372,10 @@ art gallery
 painting
 artwork
 art piece
-work of art
-piece of art
+work
+art
+piece
+art
 oil painting
 waterproof
 coat
@@ -16808,7 +17414,8 @@ person
 sitting
 rowing
 self
-glass of orange juice
+glass
+orange juice
 sculpture
 person
 stone floor
@@ -16925,7 +17532,8 @@ historical building
 historical site
 roof
 buidling
-picture of child
+picture
+child
 weathering
 concrete wall
 faded paint
@@ -17026,7 +17634,8 @@ chinese takeaway
 class object
 daffodil
 plasma ball
-glass of bear
+glass
+bear
 man
 smiling
 sitting
@@ -17038,7 +17647,8 @@ buggy
 electric buggy
 head
 person\u0026lt;
-plate of food
+plate
+food
 skewer
 food
 receipt
@@ -17217,20 +17827,25 @@ fly
 insect
 picture_of
 plant
-picture of plant
+picture
+plant
 buidling
 borany
 baby octopus
 tortilla
-pile of plates
+pile
+plates
 vegetable patch
 sky6
-pile of stuff
-pile of food
+pile
+stuff
+pile
+food
 kithen
 plastic vbbox
 crackers
-back of chair
+back
+chair
 maintainance
 strainer
 broccolli
@@ -17258,7 +17873,8 @@ asian
 wrapper
 packet
 tomato festival
-cup of water
+cup
+water
 passenger jet interior
 woden tray
 plastic wrapper
@@ -17284,7 +17900,8 @@ hand
 stirring
 advertising
 food
-plate of fod
+plate
+fod
 hob
 cooker
 utensil
@@ -17315,7 +17932,8 @@ sheath
 tall glass jar
 muiseum
 sample jar
-suit of armour
+suit
+armour
 dispaly case
 scaffholding coupler
 scaffholding clamp
@@ -17579,7 +18197,8 @@ oman
 sitting
 windfow
 fo;liage
-bottle of beer
+bottle
+beer
 wooden panel wall
 ornate table
 hanging plant basket
@@ -17588,7 +18207,8 @@ artefacty
 flattened cardboard box
 woman
 sitting
-plate of food
+plate
+food
 bottles
 litter
 wooden walkway
@@ -17628,8 +18248,10 @@ resting
 woman
 standing
 holding
-pile of oranges
-stack of crates
+pile
+oranges
+stack
+crates
 man
 walking
 looking_back
@@ -17637,7 +18259,8 @@ head
 girl
 woman
 wave crest
-row of seats
+row
+seats
 water sport
 airfoil
 car
@@ -17661,7 +18284,8 @@ sitting
 leaning
 playground
 park
-crate of oranges
+crate
+oranges
 upperbody
 woman
 woman
@@ -17687,10 +18311,14 @@ woman
 blonde
 open_door
 SUV
-picture of boat
-picture of car
-picture of building
-picture of road
+picture
+boat
+picture
+car
+picture
+building
+picture
+road
 multi-storey car park interior
 wooden sculptureriver
 man
@@ -17732,10 +18360,13 @@ brick_wall
 picture_of_womans_head
 mural
 brick_wall
-picture of womans head
+picture
+womans head
 urban art
-picture of mans head
-picture of bird
+picture
+mans head
+picture
+bird
 tray
 fruit
 food
@@ -17758,7 +18389,8 @@ home
 interior
 building
 structure
-picture of house
+picture
+house
 girl
 woman
 standing
@@ -18099,16 +18731,21 @@ model_boat
 toy_boat
 olympics
 olympic logo
-picture of forest
-picture of plants
-picture of vegetation
+picture
+forest
+picture
+plants
+picture
+vegetation
 wooden_frame
 easel
 wooden_stand
 wooden_frame
 easel
-picture of bridge
-picture of town
+picture
+bridge
+picture
+town
 riot police
 information display
 man
@@ -18164,13 +18801,15 @@ sitting
 reclining
 man
 cutting
-pile of logs
+pile
+logs
 woman
 standing
 dress
 bench
 seat
-picture of trees
+picture
+trees
 woman
 sitting
 pouring
@@ -18314,7 +18953,8 @@ cottage
 food wrapper
 chocolate bar
 food
-branch of tree
+branch
+tree
 pens
 woman skiing
 woman holdingHammer
