@@ -1,0 +1,6 @@
+frags={};
+with open("label_fragments.txt") as fp:
+	line = fp.readline()
+	while line:
+		frags[line]=()
+print(frags)
